@@ -1,0 +1,64 @@
+[
+  {
+    "id": "miscellaneous-rover-a1",
+    "brand": "Miscellaneous",
+    "model": "Rover A1",
+    "name": "Miscellaneous - Rover A1",
+    "stats": {
+      "Top speed (km/h)": "40",
+      "Reverse top speed (km/h)": "6",
+      "Acceleration": "2",
+      "Shift speed": "0",
+      "Suspension height": "2",
+      "Suspension dumper": "2",
+      "Handbrake": "6",
+      "Braking force": "5",
+      "Drivetrain": "RWD",
+      "Gears": "1",
+      "Price": "0 Fons"
+    },
+    "image": "https://i.postimg.cc/6qpB90B0/Rover-A1.png"
+  },
+  {
+    "id": "regalia-novis-st-x-950",
+    "brand": "Regalia",
+    "model": "Novis ST-X 950",
+    "name": "Regalia - Novis ST-X 950",
+    "stats": {
+      "Top speed (km/h)": "140",
+      "Reverse top speed (km/h)": "4",
+      "Acceleration": "6",
+      "Shift speed": "8",
+      "Suspension height": "5",
+      "Suspension dumper": "5",
+      "Handbrake": "8",
+      "Braking force": "6",
+      "Durability": "4 400",
+      "Drivetrain": "RWD",
+      "Gears": "5",
+      "Price": "250 000 Fons"
+    },
+    "image": "https://i.postimg.cc/Kj8mZNmg/Novis-ST-X-950.png"
+  },
+  {
+    "id": "regalia-blizzard-v4",
+    "brand": "Regalia",
+    "model": "Blizzard-V4",
+    "name": "Regalia - Blizzard-V4",
+    "stats": {
+      "Top speed (km/h)": "180",
+      "Reverse top speed (km/h)": "4",
+      "Acceleration": "7",
+      "Shift speed": "10",
+      "Suspension height": "5",
+      "Suspension dumper": "4",
+      "Handbrake": "9",
+      "Braking force": "7",
+      "Durability": "5 400",
+      "Drivetrain": "RWD",
+      "Gears": "6",
+      "Price": "3 000 000 Fons"
+    },
+    "image": "https://i.postimg.cc/LXTHK7F5/Blizzard-V4.png"
+  }
+]

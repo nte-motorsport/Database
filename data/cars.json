@@ -1,0 +1,243 @@
+[
+  {
+    "id": "novus-c2000",
+    "brand": "Novus",
+    "model": "C2000",
+    "name": "Novus - C2000",
+    "stats": {
+      "Influence": "Volkswagen Jetta",
+      "Top speed (km/h)": "130",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "3",
+      "Shift speed": "4",
+      "Suspension height": "5",
+      "Suspension dumper": "6",
+      "Handbrake": "0",
+      "Braking force": "3",
+      "Durability": "17 000",
+      "Drivetrain": "FWD",
+      "Gears": "5",
+      "Price": "50 000 Fons"
+    },
+    "image": "https://i.postimg.cc/gJDYF5bn/C2000.png"
+  },
+  {
+    "id": "novus-b100",
+    "brand": "Novus",
+    "model": "B100",
+    "name": "Novus - B100",
+    "stats": {
+      "Influence": "Honda N-Box",
+      "Top speed (km/h)": "132",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "4",
+      "Shift speed": "5",
+      "Suspension height": "4",
+      "Suspension dumper": "7",
+      "Handbrake": "4",
+      "Braking force": "4",
+      "Durability": "14 600",
+      "Drivetrain": "AWD",
+      "Gears": "6",
+      "Price": "20 000 Paw-Paw"
+    },
+    "image": "https://i.postimg.cc/Tw9RMSvK/B100.png"
+  },
+  {
+    "id": "terrax-g3",
+    "brand": "TerraX",
+    "model": "G3",
+    "name": "TerraX - G3",
+    "stats": {
+      "Influence": "Suzuki Jimny",
+      "Top speed (km/h)": "138",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "4",
+      "Shift speed": "3",
+      "Suspension height": "7",
+      "Suspension dumper": "6",
+      "Handbrake": "0",
+      "Braking force": "5",
+      "Durability": "36 650",
+      "Drivetrain": "AWD",
+      "Gears": "5",
+      "Price": "200 000 Fons"
+    },
+    "image": "https://i.postimg.cc/RFRM58xH/G3.png"
+  },
+  {
+    "id": "novus-m1000",
+    "brand": "Novus",
+    "model": "M1000",
+    "name": "Novus - M1000",
+    "stats": {
+      "Influence": "Mini Cooper",
+      "Top speed (km/h)": "146",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "5",
+      "Shift speed": "5",
+      "Suspension height": "5",
+      "Suspension dumper": "6",
+      "Handbrake": "0",
+      "Braking force": "4",
+      "Durability": "18 000",
+      "Drivetrain": "FWD",
+      "Gears": "6",
+      "Price": "900 000 Fons"
+    },
+    "image": "https://i.postimg.cc/XqYnV8nr/M1000.png"
+  },
+  {
+    "id": "novus-st79",
+    "brand": "Novus",
+    "model": "ST79",
+    "name": "Novus - ST79",
+    "stats": {
+      "Influence": "Toyota Corolla",
+      "Top speed (km/h)": "155",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "5",
+      "Shift speed": "5",
+      "Suspension height": "5",
+      "Suspension dumper": "5",
+      "Handbrake": "0",
+      "Braking force": "4",
+      "Durability": "19 000",
+      "Drivetrain": "RWD",
+      "Gears": "6",
+      "Price": "600 000 Fons"
+    },
+    "image": "https://i.postimg.cc/FzHh9ZhV/ST79.png"
+  },
+  {
+    "id": "regalia-griffin",
+    "brand": "Regalia",
+    "model": "Griffin",
+    "name": "Regalia - Griffin",
+    "stats": {
+      "Influence": "Porsche 911",
+      "Top speed (km/h)": "170",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "6",
+      "Shift speed": "6",
+      "Suspension height": "4",
+      "Suspension dumper": "6",
+      "Handbrake": "0",
+      "Braking force": "4",
+      "Durability": "16 000",
+      "Drivetrain": "RWD",
+      "Gears": "6",
+      "Price": "1 500 000 Fons"
+    },
+    "image": "https://i.postimg.cc/wvV68PYs/Griffin.png"
+  },
+  {
+    "id": "novus-enforcer",
+    "brand": "Novus",
+    "model": "Enforcer",
+    "name": "Novus - Enforcer",
+    "stats": {
+      "Influence": "Dodge Charger",
+      "Top speed (km/h)": "172",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "6",
+      "Shift speed": "6",
+      "Suspension height": "7",
+      "Suspension dumper": "2",
+      "Handbrake": "8",
+      "Braking force": "6",
+      "Durability": "18 700",
+      "Drivetrain": "RWD",
+      "Gears": "4",
+      "Price": "1 720 000 Fons"
+    },
+    "image": "https://i.postimg.cc/B6gq9yfP/Enforcer.png"
+  },
+  {
+    "id": "regalia-pursuit-v8",
+    "brand": "Regalia",
+    "model": "Pursuit V8",
+    "name": "Regalia - Pursuit V8",
+    "stats": {
+      "Influence": "Nissan GT-R",
+      "Top speed (km/h)": "180",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "7",
+      "Shift speed": "6",
+      "Suspension height": "6",
+      "Suspension dumper": "6",
+      "Handbrake": "0",
+      "Braking force": "7",
+      "Durability": "16 000",
+      "Drivetrain": "AWD",
+      "Gears": "4",
+      "Price": "4 000 000 Fons"
+    },
+    "image": "https://i.postimg.cc/8czT1HTd/Pursuit-V8.png"
+  },
+  {
+    "id": "regalia-lavelox",
+    "brand": "Regalia",
+    "model": "LaVelox",
+    "name": "Regalia - LaVelox",
+    "stats": {
+      "Influence": "Ferrari LaFerrari",
+      "Top speed (km/h)": "197",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "8",
+      "Shift speed": "9",
+      "Suspension height": "4",
+      "Suspension dumper": "8",
+      "Handbrake": "0",
+      "Braking force": "8",
+      "Durability": "15 000",
+      "Drivetrain": "RWD",
+      "Gears": "5",
+      "Price": "10 800 000 Fons"
+    },
+    "image": "https://i.postimg.cc/HnkTp2Tn/La-Velox.png"
+  },
+  {
+    "id": "regalia-pendragon",
+    "brand": "Regalia",
+    "model": "Pendragon",
+    "name": "Regalia - Pendragon",
+    "stats": {
+      "Influence": "McLaren Senna",
+      "Top speed (km/h)": "202",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "9",
+      "Shift speed": "8",
+      "Suspension height": "5",
+      "Suspension dumper": "5",
+      "Handbrake": "8",
+      "Braking force": "7",
+      "Durability": "13 850",
+      "Drivetrain": "RWD",
+      "Gears": "5",
+      "Price": "12 000 000 Fons"
+    },
+    "image": "https://i.postimg.cc/qqvpkLpy/Pendragon.png"
+  },
+  {
+    "id": "porsche-918-spyder",
+    "brand": "Porsche",
+    "model": "918 Spyder",
+    "name": "Porsche - 918 Spyder",
+    "stats": {
+      "Influence": "Porsche 918",
+      "Top speed (km/h)": "212",
+      "Reverse top speed (km/h)": "40",
+      "Acceleration": "10",
+      "Shift speed": "8",
+      "Suspension height": "4",
+      "Suspension dumper": "8",
+      "Handbrake": "0",
+      "Braking force": "6",
+      "Durability": "18 200",
+      "Drivetrain": "AWD",
+      "Gears": "5"
+    },
+    "image": "https://i.postimg.cc/sXcVd8CX/918-Spyder.png"
+  }
+]
