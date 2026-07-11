@@ -257,9 +257,7 @@
       "braking_force": 6,
       "durability": 18200,
       "drivetrain": "AWD",
-      "gears": 5,
-      "price": null,
-      "currency": null
+      "gears": 5
     },
     "image": "https://i.postimg.cc/sXcVd8CX/918-Spyder.png"
   }
