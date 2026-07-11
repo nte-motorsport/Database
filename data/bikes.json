@@ -66,5 +66,27 @@
       "currency": "Fons"
     },
     "image": "https://i.postimg.cc/LXTHK7F5/Blizzard-V4.png"
+  },
+    {
+    "id": "regalia-draco",
+    "brand_id": "regalia",
+    "model": "Draco",
+    "name": "Regalia - Draco",
+    "description": "",
+    "stats": {
+      "top_speed_kmh": 180,
+      "reverse_top_speed_kmh": 40,
+      "sideways_top_speed_kmh": 45,
+      "jump_height_m": 2.7,
+      "acceleration": 7,
+      "shift_speed": 10,
+      "suspension_height": 2,
+      "suspension_damper": 7,
+      "handbrake": 9,
+      "braking_force": 9,
+      "drivetrain": "AWD",
+      "gears": 5
+    },
+    "image": "https://i.postimg.cc/3Jt0j4YS/Draco.png"
   }
 ]
