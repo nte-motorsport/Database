@@ -4,6 +4,7 @@
     "brand_id": "novus",
     "model": "C2000",
     "name": "Novus - C2000",
+    "description": "Novus C2000, a perfect blend of economy and exceptional performance. With its spacious and comfortable ride and efficient power system, every journey is stable and reliable.",
     "stats": {
       "influence": "Volkswagen Jetta",
       "top_speed_kmh": 130,
@@ -27,6 +28,7 @@
     "brand_id": "novus",
     "model": "B100",
     "name": "Novus - B100",
+    "description": "The new Novus B100, featuring lightweight construction and low center of gravity, delivers stable yet responsive driving feedback.",
     "stats": {
       "influence": "Honda N-Box",
       "top_speed_kmh": 132,
@@ -50,6 +52,7 @@
     "brand_id": "terrax",
     "model": "G3",
     "name": "TerraX - G3",
+    "description": "G3, with its unmatched robust look, paired with the most advanced four-wheel drive system and luxurious interior, ensures your confidence and poise in any setting, whether it's for business or leisure.",
     "stats": {
       "influence": "Suzuki Jimny",
       "top_speed_kmh": 138,
@@ -73,6 +76,7 @@
     "brand_id": "novus",
     "model": "M1000",
     "name": "Novus - M1000",
+    "description": "Novus M1000 features a compact body design with exceptional agile handling, letting you navigate through city traffic with ease.",
     "stats": {
       "influence": "Mini Cooper",
       "top_speed_kmh": 146,
@@ -96,6 +100,7 @@
     "brand_id": "novus",
     "model": "ST79",
     "name": "Novus - ST79",
+    "description": "ST79, featuring a simple and practical mechanical structure, and a retro appearance paired with a mechanical manual transmission full of character. Pure driving pleasure begins here.",
     "stats": {
       "influence": "Toyota Corolla",
       "top_speed_kmh": 155,
@@ -119,6 +124,7 @@
     "brand_id": "regalia",
     "model": "Griffin",
     "name": "Regalia - Griffin",
+    "description": "Griffin, a masterpiece of craftsmanship and technology from Regalia, is equipped with the latest driver assistance system and intelligent infotainment system. The sleek body and signature pop-up headlights perfectly reflect Regalia's pursuit of excellence in detail.",
     "stats": {
       "influence": "Porsche 911",
       "top_speed_kmh": 170,
@@ -142,6 +148,7 @@
     "brand_id": "novus",
     "model": "Enforcer",
     "name": "Novus - Enforcer",
+    "description": "Enforcer. Bold body lines and raw horsepower combine in a tough, reliable design built to help you dominate the road.",
     "stats": {
       "influence": "Dodge Charger",
       "top_speed_kmh": 172,
@@ -165,6 +172,7 @@
     "brand_id": "regalia",
     "model": "Pursuit V8",
     "name": "Regalia - Pursuit V8",
+    "description": "Pursuit V8, with its precisely tuned all-wheel drive system and deep rumbling sound upon startup, you'll experience the pure appeal of mechanical engineering.",
     "stats": {
       "influence": "Nissan GT-R",
       "top_speed_kmh": 180,
@@ -188,6 +196,7 @@
     "brand_id": "regalia",
     "model": "LaVelox",
     "name": "Regalia - LaVelox",
+    "description": "LaVelox, equipped with a hybrid power system, combining cutting-edge engines and the latest technological materials, redefining what it means to be a supercar.",
     "stats": {
       "influence": "Ferrari LaFerrari",
       "top_speed_kmh": 197,
@@ -211,6 +220,7 @@
     "brand_id": "regalia",
     "model": "Pendragon",
     "name": "Regalia - Pendragon",
+    "description": "Pendragon. Regalia's latest masterpiece for future exploration, forging new supercar legends with cutting-edge technology.",
     "stats": {
       "influence": "McLaren Senna",
       "top_speed_kmh": 202,
@@ -234,6 +244,7 @@
     "brand_id": "porsche",
     "model": "918 Spyder",
     "name": "Porsche - 918 Spyder",
+    "description": "Porsche 918 Spyder - sculpted for the future, engineered to perform. Built for those who never settle for ordinary.",
     "stats": {
       "influence": "Porsche 918",
       "top_speed_kmh": 212,

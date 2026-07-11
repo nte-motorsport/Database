@@ -4,6 +4,7 @@
     "brand_id": null,
     "model": "Rover A1",
     "name": "Rover A1",
+    "description": "Rover A1, with its lightweight body, energy-efficient and eco-friendly design, is the perfect companion for short commutes.",
     "stats": {
       "top_speed_kmh": 40,
       "reverse_top_speed_kmh": 6,
@@ -25,6 +26,7 @@
     "brand_id": "regalia",
     "model": "Novis ST-X 950",
     "name": "Regalia - Novis ST-X 950",
+    "description": "Regalia's masterpiece. Supercar DNA with high-performance engine. Every acceleration is a push to the limits.",
     "stats": {
       "top_speed_kmh": 140,
       "reverse_top_speed_kmh": 4,
@@ -47,6 +49,7 @@
     "brand_id": "regalia",
     "model": "Blizzard-V4",
     "name": "Regalia - Blizzard-V4",
+    "description": "Regalia's new motorcycle features a unique aerodynamic design and a high-performance power system, crafted specifically for professional racers.",
     "stats": {
       "top_speed_kmh": 180,
       "reverse_top_speed_kmh": 4,

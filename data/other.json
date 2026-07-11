@@ -4,6 +4,7 @@
     "brand_id": null,
     "model": "Tomorrow Rush",
     "name": "Tomorrow Rush",
+    "description": "Next-gen concept vehicle driven by Mr. David, the Butler. Future models will use fuel, four equal wheels, and a safer enclosed cabin-a major leap in vehicle design!",
     "stats": {
       "top_speed_kmh": 50,
       "acceleration": 2,
@@ -22,6 +23,7 @@
     "brand_id": null,
     "model": "K01",
     "name": "K01",
+    "description": "A hobbyist go-kart with superb handling and a powerful engine fitted with a nitrous acceleration system-put pedal to the metal and feel the wind on your face!",
     "stats": {
       "top_speed_kmh": 80,
       "reverse_top_speed_kmh": 40,
