@@ -1,9 +1,9 @@
 [
   {
-    "id": "miscellaneous-rover-a1",
-    "brand_id": "miscellaneous",
+    "id": "rover-a1",
+    "brand_id": null,
     "model": "Rover A1",
-    "name": "Miscellaneous - Rover A1",
+    "name": "Rover A1",
     "stats": {
       "top_speed_kmh": 40,
       "reverse_top_speed_kmh": 6,

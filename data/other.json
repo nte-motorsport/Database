@@ -1,9 +1,9 @@
 [
   {
-    "id": "miscellaneous-tomorrow-rush",
-    "brand_id": "miscellaneous",
+    "id": "tomorrow-rush",
+    "brand_id": null,
     "model": "Tomorrow Rush",
-    "name": "Miscellaneous - Tomorrow Rush",
+    "name": "Tomorrow Rush",
     "stats": {
       "top_speed_kmh": 50,
       "acceleration": 2,
@@ -18,10 +18,10 @@
     "image": "https://i.postimg.cc/yx87VP7T/Tomorrow-Rush.png"
   },
   {
-    "id": "miscellaneous-k01",
-    "brand_id": "miscellaneous",
+    "id": "k01",
+    "brand_id": null,
     "model": "K01",
-    "name": "Miscellaneous - K01",
+    "name": "K01",
     "stats": {
       "top_speed_kmh": 80,
       "reverse_top_speed_kmh": 40,
