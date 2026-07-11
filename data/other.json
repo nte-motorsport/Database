@@ -1,40 +1,42 @@
 [
   {
     "id": "miscellaneous-tomorrow-rush",
-    "brand": "Miscellaneous",
+    "brand_id": "miscellaneous",
     "model": "Tomorrow Rush",
     "name": "Miscellaneous - Tomorrow Rush",
     "stats": {
-      "Top speed (km/h)": "50",
-      "Acceleration": "2",
-      "Shift speed": "0",
-      "Suspension height": "1",
-      "Suspension dumper": "9",
-      "Handbrake": "7",
-      "Braking force": "5",
-      "Price": "30 000 Paw-Paw"
+      "top_speed_kmh": 50,
+      "acceleration": 2,
+      "shift_speed": 0,
+      "suspension_height": 1,
+      "suspension_damper": 9,
+      "handbrake": 7,
+      "braking_force": 5,
+      "price": 30000,
+      "currency": "Paw-Paw"
     },
     "image": "https://i.postimg.cc/yx87VP7T/Tomorrow-Rush.png"
   },
   {
     "id": "miscellaneous-k01",
-    "brand": "Miscellaneous",
+    "brand_id": "miscellaneous",
     "model": "K01",
     "name": "Miscellaneous - K01",
     "stats": {
-      "Top speed (km/h)": "80",
-      "Reverse top speed (km/h)": "40",
-      "Boost top speed (km/h)": "154",
-      "Acceleration": "8",
-      "Boost time (s)": "9",
-      "Shift speed": "10",
-      "Suspension height": "2",
-      "Suspension dumper": "9",
-      "Handbrake": "9",
-      "Braking force": "7",
-      "Drivetrain": "AWD",
-      "Gears": "1",
-      "Price": "6 800 000 Fons"
+      "top_speed_kmh": 80,
+      "reverse_top_speed_kmh": 40,
+      "boost_top_speed_kmh": 154,
+      "acceleration": 8,
+      "boost_time_s": 9,
+      "shift_speed": 10,
+      "suspension_height": 2,
+      "suspension_damper": 9,
+      "handbrake": 9,
+      "braking_force": 7,
+      "drivetrain": "AWD",
+      "gears": 1,
+      "price": 6800000,
+      "currency": "Fons"
     },
     "image": "https://i.postimg.cc/j2SRsXR5/K01.png"
   }

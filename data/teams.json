@@ -4,16 +4,18 @@
     "name": "Sunday Racing Team",
     "description": "A loosely organized racing team whose members are mostly office workers who come together based on their shared interest in racing. They don't particularly care about rankings - what matters is enjoying the fun of driving.",
     "captain": "Ikeyama",
-    "home": "Unheard Shores Circuit",
+    "home_track_id": null,
+    "home_raw": "Unheard Shores Circuit",
     "hours": "Daily, 20:00 to 8:00",
     "logo": "https://i.postimg.cc/m27sxnYx/Sunday.png",
     "members": [
       {
         "number": "1",
         "name": "Sakamoto",
-        "track": "Unheard Shores Circuit A Normal",
-        "cars": [
-          "Novus C2000"
+        "track_id": "unheard-shores-circuit-a",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-c2000"
         ],
         "objectives": [
           "Win the Race",
@@ -24,9 +26,11 @@
       {
         "number": "2",
         "name": "Shouji",
-        "track": "Unheard Shores Circuit A Reverse",
-        "cars": [
-          "2x Novus C2000"
+        "track_id": "unheard-shores-circuit-a",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-c2000",
+          "novus-c2000"
         ],
         "objectives": [
           "Win the Race",
@@ -37,9 +41,12 @@
       {
         "number": "3",
         "name": "Itou",
-        "track": "Unheard Shores Circuit B Normal",
-        "cars": [
-          "3x Novus C2000"
+        "track_id": "unheard-shores-circuit-b",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-c2000",
+          "novus-c2000",
+          "novus-c2000"
         ],
         "objectives": [
           "Win the Race",
@@ -50,10 +57,11 @@
       {
         "number": "4",
         "name": "Takeuchi",
-        "track": "Unheard Shores Circuit B Reverse",
-        "cars": [
-          "Novus C2000",
-          "TerraX G3"
+        "track_id": "unheard-shores-circuit-b",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-c2000",
+          "terrax-g3"
         ],
         "objectives": [
           "Win the Race",
@@ -64,10 +72,12 @@
       {
         "number": "5",
         "name": "Kyoujou",
-        "track": "Unheard Shores Circuit A Normal",
-        "cars": [
-          "2x Novus C2000",
-          "TerraX G3"
+        "track_id": "unheard-shores-circuit-a",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-c2000",
+          "novus-c2000",
+          "terrax-g3"
         ],
         "objectives": [
           "Win the Race",
@@ -78,10 +88,11 @@
       {
         "number": "6",
         "name": "Ikeyama",
-        "track": "Unheard Shores Circuit B Reverse",
-        "cars": [
-          "Novus C2000",
-          "TerraX G3"
+        "track_id": "unheard-shores-circuit-b",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-c2000",
+          "terrax-g3"
         ],
         "objectives": [
           "Win the Race",
@@ -96,16 +107,18 @@
     "name": "Coastal Drift Racing Team",
     "description": "A racing team formed by Captain Elle during her college years, who have all grown up to be office workers. The team was kept to this day as a social circle. The sisters regularly stay connected through racing, seeing it as part of their lives rather than caring about winning or losing.",
     "captain": "Elle",
-    "home": "Bridge Crossings Sightseers",
+    "home_track_id": "bridge-crossings-sightseers",
+    "home_raw": null,
     "hours": "Daily, 18:00 to 6:00",
     "logo": "https://i.postimg.cc/qM2TfF8P/Coastal-Drift.png",
     "members": [
       {
         "number": "1",
         "name": "Monica",
-        "track": "Bridge Crossings Sightseers",
-        "cars": [
-          "Novus M1000"
+        "track_id": "bridge-crossings-sightseers",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-m1000"
         ],
         "objectives": [
           "Win the Race",
@@ -116,9 +129,10 @@
       {
         "number": "2",
         "name": "Annie",
-        "track": "Davidia - Crane Path Track",
-        "cars": [
-          "Novus M1000"
+        "track_id": "davidia-crane-path-track",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-m1000"
         ],
         "objectives": [
           "Win the Race",
@@ -129,9 +143,11 @@
       {
         "number": "3",
         "name": "Valentina",
-        "track": "Bridge Crossings Circuit",
-        "cars": [
-          "2x Novus M1000"
+        "track_id": "bridge-crossings-circuit",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-m1000",
+          "novus-m1000"
         ],
         "objectives": [
           "Win the Race",
@@ -142,9 +158,11 @@
       {
         "number": "4",
         "name": "Vivian",
-        "track": "Bridge Crossings Sightseers Reverse",
-        "cars": [
-          "2x Novus M1000"
+        "track_id": "bridge-crossings-sightseers",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-m1000",
+          "novus-m1000"
         ],
         "objectives": [
           "Win the Race",
@@ -155,9 +173,11 @@
       {
         "number": "5",
         "name": "Elle",
-        "track": "Davidia - Crane Path Track Reverse",
-        "cars": [
-          "2x Novus M1000"
+        "track_id": "davidia-crane-path-track",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-m1000",
+          "novus-m1000"
         ],
         "objectives": [
           "Win the Race",
@@ -168,9 +188,12 @@
       {
         "number": "6",
         "name": "Attila",
-        "track": "Bridge Crossings Circuit Reverse",
-        "cars": [
-          "3x Novus M1000"
+        "track_id": "bridge-crossings-circuit",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-m1000",
+          "novus-m1000",
+          "novus-m1000"
         ],
         "objectives": [
           "Win the Race",
@@ -185,16 +208,18 @@
     "name": "Full Throttle Racing Team",
     "description": "This racing team is active throughout Hethereau, with most members being free of employment, allowing them time to practice on long-distance tracks. The team's finances are tight, often requiring them to scrape together resources just to barely organize a gathering.",
     "captain": "Grant",
-    "home": "Hethereau Track 1",
+    "home_track_id": "hethereau-track-1",
+    "home_raw": null,
     "hours": "Daily, 12:00 to 0:00",
     "logo": "https://i.postimg.cc/Qxc3LzQZ/Full-Throttle.png",
     "members": [
       {
         "number": "1",
         "name": "Meryl",
-        "track": "Hethereau Track 1",
-        "cars": [
-          "TerraX G3"
+        "track_id": "hethereau-track-1",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "terrax-g3"
         ],
         "objectives": [
           "Win the Race",
@@ -205,10 +230,11 @@
       {
         "number": "2",
         "name": "Helen",
-        "track": "Hethereau Track 2",
-        "cars": [
-          "Novus C2000",
-          "TerraX G3"
+        "track_id": "hethereau-track-2",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-c2000",
+          "terrax-g3"
         ],
         "objectives": [
           "Win the Race",
@@ -219,10 +245,11 @@
       {
         "number": "3",
         "name": "Rand",
-        "track": "Hethereau Track 1 Reverse",
-        "cars": [
-          "Novus C2000",
-          "TerraX G3"
+        "track_id": "hethereau-track-1",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-c2000",
+          "terrax-g3"
         ],
         "objectives": [
           "Win the Race",
@@ -233,11 +260,12 @@
       {
         "number": "4",
         "name": "Conseil",
-        "track": "Hethereau Track 1",
-        "cars": [
-          "Novus C2000",
-          "Novus M1000",
-          "Novus ST79"
+        "track_id": "hethereau-track-1",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-c2000",
+          "novus-m1000",
+          "novus-st79"
         ],
         "objectives": [
           "Win the Race",
@@ -248,10 +276,12 @@
       {
         "number": "5",
         "name": "Pierre",
-        "track": "Hethereau Track 2",
-        "cars": [
-          "Novus M1000",
-          "2x Novus ST79"
+        "track_id": "hethereau-track-2",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-m1000",
+          "novus-st79",
+          "novus-st79"
         ],
         "objectives": [
           "Win the Race",
@@ -262,10 +292,12 @@
       {
         "number": "6",
         "name": "Grant",
-        "track": "Hethereau Track 2",
-        "cars": [
-          "Novus M1000",
-          "2x Novus ST79"
+        "track_id": "hethereau-track-2",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-m1000",
+          "novus-st79",
+          "novus-st79"
         ],
         "objectives": [
           "Win the Race",
@@ -280,17 +312,19 @@
     "name": "Meridian Racing Team",
     "description": "A new generation racing team formed by Bai Yang, who admires the God Racer of Hethereau. The team trains hard with the goal of conquering the Reims Grand Prix. Though the members are still young on average, they've already achieved numerous victories.",
     "captain": "Bai Yang",
-    "home": "Whitetail Ridge Road",
+    "home_track_id": "whitetail-ridge-road",
+    "home_raw": null,
     "hours": "Daily, 22:00 to 10:00",
     "logo": "https://i.postimg.cc/bN1hX5xj/Meridian.png",
     "members": [
       {
         "number": "1",
         "name": "Akiba",
-        "track": "Caltrop Lake Circuit",
-        "cars": [
-          "TerraX G3",
-          "Novus ST79"
+        "track_id": "caltrop-lake-circuit",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "terrax-g3",
+          "novus-st79"
         ],
         "objectives": [
           "Win the Race",
@@ -301,10 +335,11 @@
       {
         "number": "2",
         "name": "Hanatsuya",
-        "track": "Caltrop Lake Circuit Reverse",
-        "cars": [
-          "Novus M1000",
-          "Novus ST79"
+        "track_id": "caltrop-lake-circuit",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-m1000",
+          "novus-st79"
         ],
         "objectives": [
           "Win the Race",
@@ -315,10 +350,11 @@
       {
         "number": "3",
         "name": "Tomarikai",
-        "track": "Whitetail Ridge Road",
-        "cars": [
-          "Novus M1000",
-          "Novus ST79"
+        "track_id": "whitetail-ridge-road",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-m1000",
+          "novus-st79"
         ],
         "objectives": [
           "Win the Race",
@@ -329,9 +365,10 @@
       {
         "number": "4",
         "name": "Tomarigen",
-        "track": "Whitetail Ridge Road",
-        "cars": [
-          "Novus ST79"
+        "track_id": "whitetail-ridge-road",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79"
         ],
         "objectives": [
           "Win the Race",
@@ -342,10 +379,11 @@
       {
         "number": "5",
         "name": "Matsuyma",
-        "track": "Whitetail Ridge Road",
-        "cars": [
-          "Novus ST79",
-          "Regalia Pursuit V8"
+        "track_id": "whitetail-ridge-road",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79",
+          "regalia-pursuit-v8"
         ],
         "objectives": [
           "Win the Race",
@@ -356,9 +394,11 @@
       {
         "number": "6",
         "name": "Bai Yang",
-        "track": "Whitetail Ridge Road",
-        "cars": [
-          "2x Novus ST79"
+        "track_id": "whitetail-ridge-road",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-st79"
         ],
         "objectives": [
           "Win the Race",
@@ -373,16 +413,18 @@
     "name": "Tempestas Racing Team",
     "description": "A racing team composed of wealthy young people who treat street racing as a pastime. Cars serve as social calling cards, so members care greatly about their vehicles' appearance but don't particularly focus on functional modifications.",
     "captain": "Amory",
-    "home": "New Herland City Track",
+    "home_track_id": "new-herland-city-track",
+    "home_raw": null,
     "hours": "Daily, 16:00 to 4:00",
     "logo": "https://i.postimg.cc/xTL2rZvY/Tempestas.png",
     "members": [
       {
         "number": "1",
         "name": "Tommy",
-        "track": "New Herland City Track",
-        "cars": [
-          "Regalia Griffin"
+        "track_id": "new-herland-city-track",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "regalia-griffin"
         ],
         "objectives": [
           "Win the Race",
@@ -393,10 +435,11 @@
       {
         "number": "2",
         "name": "Selda",
-        "track": "New Herland City Track",
-        "cars": [
-          "Regalia Griffin",
-          "Novus Enforcer"
+        "track_id": "new-herland-city-track",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "regalia-griffin",
+          "novus-enforcer"
         ],
         "objectives": [
           "Win the Race",
@@ -407,10 +450,12 @@
       {
         "number": "3",
         "name": "Kuroki",
-        "track": "New Herland City Track",
-        "cars": [
-          "2x Regalia Griffin",
-          "Novus Enforcer"
+        "track_id": "new-herland-city-track",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "regalia-griffin",
+          "regalia-griffin",
+          "novus-enforcer"
         ],
         "objectives": [
           "Win the Race",
@@ -421,11 +466,12 @@
       {
         "number": "4",
         "name": "Chiyuki",
-        "track": "New Herland City Track Reverse",
-        "cars": [
-          "Regalia Griffin",
-          "Novus Enforcer",
-          "Regalia LaVelox"
+        "track_id": "new-herland-city-track",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "regalia-griffin",
+          "novus-enforcer",
+          "regalia-lavelox"
         ],
         "objectives": [
           "Win the Race",
@@ -436,11 +482,12 @@
       {
         "number": "5",
         "name": "Daisy",
-        "track": "New Herland City Track Reverse",
-        "cars": [
-          "Regalia Griffin",
-          "Regalia Pursuit V8",
-          "Regalia LaVelox"
+        "track_id": "new-herland-city-track",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "regalia-griffin",
+          "regalia-pursuit-v8",
+          "regalia-lavelox"
         ],
         "objectives": [
           "Win the Race",
@@ -451,11 +498,12 @@
       {
         "number": "6",
         "name": "Amory",
-        "track": "New Herland City Track Reverse",
-        "cars": [
-          "Regalia Griffin",
-          "Regalia Pursuit V8",
-          "Regalia LaVelox"
+        "track_id": "new-herland-city-track",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "regalia-griffin",
+          "regalia-pursuit-v8",
+          "regalia-lavelox"
         ],
         "objectives": [
           "Win the Race",
@@ -470,17 +518,19 @@
     "name": "Uncrowned King Racing Team",
     "description": "A racing team formed by retired racer Misha, with members who are all retired professional racers recognized by Misha. The team's original purpose was to provide help and support to more young people with racing dreams.",
     "captain": "Misha",
-    "home": "New Herland Highway Track",
+    "home_track_id": "new-herland-highway-track",
+    "home_raw": null,
     "hours": "Daily, 19:00 to 7:00",
     "logo": "https://i.postimg.cc/L6jpdWtH/Uncrowned-King.png",
     "members": [
       {
         "number": "1",
         "name": "Pinglu",
-        "track": "New Herland Highway Track",
-        "cars": [
-          "Regalia Pursuit V8",
-          "Regalia LaVelox"
+        "track_id": "new-herland-highway-track",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "regalia-pursuit-v8",
+          "regalia-lavelox"
         ],
         "objectives": [
           "Win the Race",
@@ -491,10 +541,11 @@
       {
         "number": "2",
         "name": "Mei",
-        "track": "New Herland Highway Track",
-        "cars": [
-          "Regalia Pursuit V8",
-          "Regalia LaVelox"
+        "track_id": "new-herland-highway-track",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "regalia-pursuit-v8",
+          "regalia-lavelox"
         ],
         "objectives": [
           "Win the Race",
@@ -505,10 +556,11 @@
       {
         "number": "3",
         "name": "Akai",
-        "track": "New Herland Highway Track Reverse",
-        "cars": [
-          "Regalia Pursuit V8",
-          "Regalia LaVelox"
+        "track_id": "new-herland-highway-track",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "regalia-pursuit-v8",
+          "regalia-lavelox"
         ],
         "objectives": [
           "Win the Race",
@@ -519,10 +571,11 @@
       {
         "number": "4",
         "name": "Reno",
-        "track": "New Herland Highway Track Reverse",
-        "cars": [
-          "Regalia LaVelox",
-          "Regalia Pendragon"
+        "track_id": "new-herland-highway-track",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "regalia-lavelox",
+          "regalia-pendragon"
         ],
         "objectives": [
           "Win the Race",
@@ -533,10 +586,11 @@
       {
         "number": "5",
         "name": "Misha",
-        "track": "New Herland Highway Track Reverse",
-        "cars": [
-          "Novus C2000",
-          "Regalia Pendragon"
+        "track_id": "new-herland-highway-track",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-c2000",
+          "regalia-pendragon"
         ],
         "objectives": [
           "Win the Race",
@@ -547,10 +601,11 @@
       {
         "number": "6",
         "name": "Permit",
-        "track": "New Herland Highway Track",
-        "cars": [
-          "Novus C2000",
-          "Regalia LaVelox"
+        "track_id": "new-herland-highway-track",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-c2000",
+          "regalia-lavelox"
         ],
         "objectives": [
           "Win the Race",
