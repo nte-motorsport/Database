@@ -5,18 +5,18 @@
     "logo": "https://i.postimg.cc/2STJckrS/Novus.png"
   },
   {
-    "id": "porsche",
-    "name": "Porsche",
-    "logo": "https://i.postimg.cc/sDswtknz/Porsche.png"
+    "id": "terrax",
+    "name": "TerraX",
+    "logo": "https://i.postimg.cc/NjbVJsBM/Terra-X.png"
   },
   {
     "id": "regalia",
     "name": "Regalia",
     "logo": "https://i.postimg.cc/rwgbnVMs/Regalia.png"
   },
-  {
-    "id": "terrax",
-    "name": "TerraX",
-    "logo": "https://i.postimg.cc/NjbVJsBM/Terra-X.png"
+    {
+    "id": "porsche",
+    "name": "Porsche",
+    "logo": "https://i.postimg.cc/sDswtknz/Porsche.png"
   }
 ]
