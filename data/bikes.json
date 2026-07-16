@@ -87,6 +87,11 @@
       "drivetrain": "AWD",
       "gears": 5
     },
-    "image": "https://i.postimg.cc/3Jt0j4YS/Draco.png"
+    "image": "https://i.postimg.cc/3Jt0j4YS/Draco.png",
+    "gallery": [
+      "https://i.postimg.cc/Bvkg00jJ/Draco.jpg",
+      "https://i.postimg.cc/3Jt0j4YS/Draco.png",
+      "https://i.postimg.cc/3Jt0j4YS/Draco.png"
+    ]
   }
 ]
