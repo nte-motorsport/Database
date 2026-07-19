@@ -1,0 +1,97 @@
+[
+    {
+        "id": "zero-m",
+        "name": "Zero",
+        "image": "https://i.postimg.cc/FKYkz0cc/Zero-M.png"
+    },
+    {
+        "id": "zero-f",
+        "name": "Zero",
+        "image": "https://i.postimg.cc/cJvtCfYw/Zero-F.png"
+    },
+    {
+        "id": "adler",
+        "name": "Adler",
+        "image": "https://i.postimg.cc/nhRQn3sn/Adler.png"
+    },
+    {
+        "id": "aurelia",
+        "name": "Aurelia",
+        "image": "https://i.postimg.cc/g2S6Ggwm/Aurelia.png"
+    },
+    {
+        "id": "baicang",
+        "name": "Baicang",
+        "image": "https://i.postimg.cc/fR20M83z/Baicang.png"
+    },
+    {
+        "id": "chaos",
+        "name": "Chaos",
+        "image": "https://i.postimg.cc/T3YD8zPy/Chaos.webp"
+    },
+    {
+        "id": "chiz",
+        "name": "Chiz",
+        "image": "https://i.postimg.cc/kg1t7TV5/Chiz.png"
+    },
+    {
+        "id": "daffodill",
+        "name": "Daffodill",
+        "image": "https://i.postimg.cc/NjJrQdyF/Daffodill.png"
+    },
+    {
+        "id": "edgar",
+        "name": "Edgar",
+        "image": "https://i.postimg.cc/zGtRqxLV/Edgar.png"
+    },
+    {
+        "id": "fadia",
+        "name": "Fadia",
+        "image": "https://i.postimg.cc/Z57yJw90/Fadia.png"
+    },
+    {
+        "id": "haniel",
+        "name": "Haniel",
+        "image": "https://i.postimg.cc/9Q8qcL4R/Haniel.png"
+    },
+    {
+        "id": "hator",
+        "name": "Hator",
+        "image": "https://i.postimg.cc/W1WJs5Dq/Hator.png"
+    },
+    {
+        "id": "hotori",
+        "name": "Hotori",
+        "image": "https://i.postimg.cc/VkGbzKSC/Hotori.png"
+    },
+    {
+        "id": "jiuyuan",
+        "name": "Jiuyuan",
+        "image": "https://i.postimg.cc/hty7K2J7/Jiuyuan.png"
+    },
+    {
+        "id": "lacrimosa",
+        "name": "Lacrimosa",
+        "image": "https://i.postimg.cc/Dwjb7xWr/Lacrimosa.png"
+    },
+    {
+        "id": "mint",
+        "name": "Mint",
+        "image": "https://i.postimg.cc/6pjGBM7f/Mint.png"
+    },
+    {
+        "id": "nanally",
+        "name": "Nanally",
+        "image": "https://i.postimg.cc/fR20M83K/Nanally.png"
+    },
+    {
+        "id": "sakiri",
+        "name": "Sakiri",
+        "image": "https://i.postimg.cc/8zKrTZFb/Sakiri.png"
+    },
+    {
+        "id": "skia",
+        "name": "Skia",
+        "image": "https://i.postimg.cc/FHWJhTfT/Skia.png"
+    }
+]
