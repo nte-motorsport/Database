@@ -19,7 +19,7 @@
       "price": 0,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/6qpB90B0/Rover-A1.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/bikes/rover-a1.png"
   },
   {
     "id": "regalia-novis-st-x-950",
@@ -42,7 +42,7 @@
       "price": 250000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/Kj8mZNmg/Novis-ST-X-950.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/bikes/regalia-novis-st-x-950.png"
   },
   {
     "id": "regalia-blizzard-v4",
@@ -65,7 +65,7 @@
       "price": 3000000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/LXTHK7F5/Blizzard-V4.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/bikes/regalia-blizzard-v4.png"
   },
     {
     "id": "regalia-draco",
@@ -87,7 +87,7 @@
       "drivetrain": "AWD",
       "gears": 5
     },
-    "image": "https://i.postimg.cc/3Jt0j4YS/Draco.png",
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/bikes/regalia-draco.png",
     "gallery": [
       "https://i.postimg.cc/Bvkg00jJ/Draco.jpg"
     ]

@@ -16,7 +16,7 @@
       "price": 30000,
       "currency": "Paw-Paw"
     },
-    "image": "https://i.postimg.cc/yx87VP7T/Tomorrow-Rush.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/tomorrow-rush.png"
   },
   {
     "id": "k01",
@@ -40,6 +40,6 @@
       "price": 6800000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/j2SRsXR5/K01.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/k01.png"
   }
 ]

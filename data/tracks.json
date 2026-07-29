@@ -5,7 +5,7 @@
     "location": "Hethereau",
     "length_km": 2.3,
     "turns": 11,
-    "image": "https://i.postimg.cc/593PJbjp/Unheard-Shores-Circuit-A.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/unheard-shores-circuit-a.png"
   },
   {
     "id": "unheard-shores-circuit-b",
@@ -13,7 +13,7 @@
     "location": "Hethereau",
     "length_km": 3.4,
     "turns": 19,
-    "image": "https://i.postimg.cc/KcN9bx49/Unheard-Shores-Circuit-B.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/unheard-shores-circuit-b.png"
   },
   {
     "id": "bridge-crossings-sightseers",
@@ -21,7 +21,7 @@
     "location": "Hethereau",
     "length_km": 3.2,
     "turns": 11,
-    "image": "https://i.postimg.cc/PJ2KQz00/Bridge-Crossings-Sightseers.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/bridge-crossings-sightseers.png"
   },
   {
     "id": "davidia-crane-path-track",
@@ -29,7 +29,7 @@
     "location": "Hethereau",
     "length_km": 3.0,
     "turns": 10,
-    "image": "https://i.postimg.cc/GtqzxJZw/Davidia-Crane-Path-Track.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/davidia-crane-path-track.png"
   },
   {
     "id": "bridge-crossings-circuit",
@@ -37,7 +37,7 @@
     "location": "Hethereau",
     "length_km": 2.4,
     "turns": 7,
-    "image": "https://i.postimg.cc/q7K0RQFJ/Bridge-Crossings-Circuit.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/bridge-crossings-circuit.png"
   },
   {
     "id": "hethereau-track-1",
@@ -45,7 +45,7 @@
     "location": "Hethereau",
     "length_km": 4.2,
     "turns": 9,
-    "image": "https://i.postimg.cc/HnB394fV/Hethereau-Track-1.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/hethereau-track-1.png"
   },
   {
     "id": "hethereau-track-2",
@@ -53,7 +53,7 @@
     "location": "Hethereau",
     "length_km": 6.9,
     "turns": 17,
-    "image": "https://i.postimg.cc/Y0b8zfJL/Hethereau-Track-2.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/hethereau-track-2.png"
   },
   {
     "id": "caltrop-lake-circuit",
@@ -61,7 +61,7 @@
     "location": "Hethereau",
     "length_km": 1.3,
     "turns": 10,
-    "image": "https://i.postimg.cc/C5mJsH9X/Caltrop-Lake-Circuit.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/caltrop-lake-circuit.png"
   },
   {
     "id": "whitetail-ridge-road",
@@ -69,7 +69,7 @@
     "location": "Hethereau",
     "length_km": 3.1,
     "turns": 22,
-    "image": "https://i.postimg.cc/kMcjCqD1/Whitetail-Ridge-Road.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/whitetail-ridge-road.png"
   },
   {
     "id": "new-herland-city-track",
@@ -77,7 +77,7 @@
     "location": "Hethereau",
     "length_km": 3.8,
     "turns": 6,
-    "image": "https://i.postimg.cc/vT3XtLpV/New-Herland-City-Track.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/new-herland-city-track.png"
   },
   {
     "id": "new-herland-highway-track",
@@ -85,6 +85,6 @@
     "location": "Hethereau",
     "length_km": 3.3,
     "turns": 8,
-    "image": "https://i.postimg.cc/C5mJsHWf/New-Herland-Highway-Track.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/new-herland-highway-track.png"
   }
 ]

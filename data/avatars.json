@@ -2,96 +2,96 @@
     {
         "id": "zero-m",
         "name": "Zero",
-        "image": "https://i.postimg.cc/FKYkz0cc/Zero-M.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/zero-m.png"
     },
     {
         "id": "zero-f",
         "name": "Zero",
-        "image": "https://i.postimg.cc/cJvtCfYw/Zero-F.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/zero-f.png"
     },
     {
         "id": "adler",
         "name": "Adler",
-        "image": "https://i.postimg.cc/nhRQn3sn/Adler.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/adler.png"
     },
     {
         "id": "aurelia",
         "name": "Aurelia",
-        "image": "https://i.postimg.cc/g2S6Ggwm/Aurelia.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/aurelia.png"
     },
     {
         "id": "baicang",
         "name": "Baicang",
-        "image": "https://i.postimg.cc/fR20M83z/Baicang.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/baicang.png"
     },
     {
         "id": "chaos",
         "name": "Chaos",
-        "image": "https://i.postimg.cc/T3YD8zPy/Chaos.webp"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/chaos.webp"
     },
     {
         "id": "chiz",
         "name": "Chiz",
-        "image": "https://i.postimg.cc/kg1t7TV5/Chiz.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/chiz.png"
     },
     {
         "id": "daffodill",
         "name": "Daffodill",
-        "image": "https://i.postimg.cc/NjJrQdyF/Daffodill.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/daffodill.png"
     },
     {
         "id": "edgar",
         "name": "Edgar",
-        "image": "https://i.postimg.cc/zGtRqxLV/Edgar.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/edgar.png"
     },
     {
         "id": "fadia",
         "name": "Fadia",
-        "image": "https://i.postimg.cc/Z57yJw90/Fadia.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/fadia.png"
     },
     {
         "id": "haniel",
         "name": "Haniel",
-        "image": "https://i.postimg.cc/9Q8qcL4R/Haniel.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/haniel.png"
     },
     {
         "id": "hator",
         "name": "Hator",
-        "image": "https://i.postimg.cc/W1WJs5Dq/Hator.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/hator.png"
     },
     {
         "id": "hotori",
         "name": "Hotori",
-        "image": "https://i.postimg.cc/VkGbzKSC/Hotori.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/hotori.png"
     },
     {
         "id": "jiuyuan",
         "name": "Jiuyuan",
-        "image": "https://i.postimg.cc/hty7K2J7/Jiuyuan.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/jiuyuan.png"
     },
     {
         "id": "lacrimosa",
         "name": "Lacrimosa",
-        "image": "https://i.postimg.cc/Dwjb7xWr/Lacrimosa.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/lacrimosa.png"
     },
     {
         "id": "mint",
         "name": "Mint",
-        "image": "https://i.postimg.cc/6pjGBM7f/Mint.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/mint.png"
     },
     {
         "id": "nanally",
         "name": "Nanally",
-        "image": "https://i.postimg.cc/fR20M83K/Nanally.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/nanally.png"
     },
     {
         "id": "sakiri",
         "name": "Sakiri",
-        "image": "https://i.postimg.cc/8zKrTZFb/Sakiri.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/sakiri.png"
     },
     {
         "id": "skia",
         "name": "Skia",
-        "image": "https://i.postimg.cc/FHWJhTfT/Skia.png"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/skia.png"
     }
 ]

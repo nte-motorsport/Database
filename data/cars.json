@@ -21,7 +21,7 @@
       "price": 50000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/gJDYF5bn/C2000.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-c2000.png"
   },
   {
     "id": "novus-b100",
@@ -45,7 +45,7 @@
       "price": 20000,
       "currency": "Paw-Paw"
     },
-    "image": "https://i.postimg.cc/Tw9RMSvK/B100.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-b100.png"
   },
   {
     "id": "terrax-g3",
@@ -69,7 +69,7 @@
       "price": 200000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/RFRM58xH/G3.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/terrax-g3.png"
   },
   {
     "id": "novus-m1000",
@@ -93,7 +93,7 @@
       "price": 900000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/XqYnV8nr/M1000.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-m1000.png"
   },
   {
     "id": "novus-st79",
@@ -117,7 +117,7 @@
       "price": 600000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/FzHh9ZhV/ST79.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-st79.png"
   },
   {
     "id": "regalia-griffin",
@@ -141,7 +141,7 @@
       "price": 1500000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/wvV68PYs/Griffin.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-griffin.png"
   },
   {
     "id": "novus-enforcer",
@@ -165,7 +165,7 @@
       "price": 1720000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/B6gq9yfP/Enforcer.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-enforcer.png"
   },
   {
     "id": "regalia-pursuit-v8",
@@ -189,7 +189,7 @@
       "price": 4000000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/8czT1HTd/Pursuit-V8.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-pursuit-v8.png"
   },
   {
     "id": "regalia-lavelox",
@@ -213,7 +213,7 @@
       "price": 10800000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/HnkTp2Tn/La-Velox.png",
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox.png",
     "gallery": [
       "https://i.postimg.cc/5yRmLDjz/La-Velox.webp",
       "https://i.postimg.cc/RhDTK2qf/La-Velox.jpg",
@@ -243,7 +243,7 @@
       "price": 12000000,
       "currency": "Fons"
     },
-    "image": "https://i.postimg.cc/qqvpkLpy/Pendragon.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-pendragon.png"
   },
   {
     "id": "porsche-918-spyder",
@@ -265,6 +265,6 @@
       "drivetrain": "AWD",
       "gears": 5
     },
-    "image": "https://i.postimg.cc/sXcVd8CX/918-Spyder.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-918-spyder.png"
   }
 ]
