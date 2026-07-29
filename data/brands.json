@@ -2,21 +2,21 @@
   {
     "id": "novus",
     "name": "Novus",
-    "logo": "https://i.postimg.cc/2STJckrS/Novus.png"
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/brands/novus-logo.png"
   },
   {
     "id": "terrax",
     "name": "TerraX",
-    "logo": "https://i.postimg.cc/NjbVJsBM/Terra-X.png"
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/brands/terrax-logo.png"
   },
   {
     "id": "regalia",
     "name": "Regalia",
-    "logo": "https://i.postimg.cc/rwgbnVMs/Regalia.png"
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/brands/regalia-logo.png"
   },
     {
     "id": "porsche",
     "name": "Porsche",
-    "logo": "https://i.postimg.cc/sDswtknz/Porsche.png"
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/brands/porsche-logo.png"
   }
 ]

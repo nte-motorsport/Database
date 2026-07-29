@@ -7,7 +7,7 @@
     "home_track_id": null,
     "home_raw": "Unheard Shores Circuit",
     "hours": "Daily, 20:00 to 8:00",
-    "logo": "https://i.postimg.cc/m27sxnYx/Sunday.png",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/sunday-racing-team-logo.png",
     "members": [
       {
         "number": "1",
@@ -110,7 +110,7 @@
     "home_track_id": "bridge-crossings-sightseers",
     "home_raw": null,
     "hours": "Daily, 18:00 to 6:00",
-    "logo": "https://i.postimg.cc/qM2TfF8P/Coastal-Drift.png",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/coastal-drift-racing-team-logo.png",
     "members": [
       {
         "number": "1",
@@ -211,7 +211,7 @@
     "home_track_id": "hethereau-track-1",
     "home_raw": null,
     "hours": "Daily, 12:00 to 0:00",
-    "logo": "https://i.postimg.cc/Qxc3LzQZ/Full-Throttle.png",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/full-throttle-racing-team-logo.png",
     "members": [
       {
         "number": "1",
@@ -315,7 +315,7 @@
     "home_track_id": "whitetail-ridge-road",
     "home_raw": null,
     "hours": "Daily, 22:00 to 10:00",
-    "logo": "https://i.postimg.cc/bN1hX5xj/Meridian.png",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/meridian-racing-team-logo.png",
     "members": [
       {
         "number": "1",
@@ -416,7 +416,7 @@
     "home_track_id": "new-herland-city-track",
     "home_raw": null,
     "hours": "Daily, 16:00 to 4:00",
-    "logo": "https://i.postimg.cc/xTL2rZvY/Tempestas.png",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/tempestas-racing-team-logo.png",
     "members": [
       {
         "number": "1",
@@ -521,7 +521,7 @@
     "home_track_id": "new-herland-highway-track",
     "home_raw": null,
     "hours": "Daily, 19:00 to 7:00",
-    "logo": "https://i.postimg.cc/L6jpdWtH/Uncrowned-King.png",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/uncrowned-king-racing-team-logo.png",
     "members": [
       {
         "number": "1",
