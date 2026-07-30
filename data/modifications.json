@@ -1,0 +1,2699 @@
+[
+  {
+    "id": "novus-c2000",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "novus-c2000-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 130,
+              "acceleration": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-c2000-engine-horizon-l422",
+            "name": "Horizon - L422",
+            "price": 20000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 135,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "novus-c2000-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-c2000-gearbox-japo-s6-at95",
+            "name": "JAPO - S6-AT95",
+            "price": 21600,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "novus-c2000-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "novus-c2000-suspension-master-nw-ds15",
+            "name": "Master - NW-DS15",
+            "price": 14400,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "novus-c2000-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "novus-c2000-brakes-master-db09",
+            "name": "Master - DB09",
+            "price": 10800,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "novus-c2000-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-c2000-tires-t-hunter-wt91",
+            "name": "T-Hunter - WT91",
+            "price": 7200,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-c2000-tires-t-hunter-st91",
+            "name": "T-Hunter - ST91",
+            "price": 7200,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "novus-c2000-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "novus-c2000-differential-af-lsd005",
+            "name": "AF - LSD005",
+            "price": 18000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "id": "novus-c2000-body-strength-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "novus-c2000-body-strength-br-2",
+            "name": "BR-2",
+            "price": 5760,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "novus-c2000-body-strength-br-3",
+            "name": "BR-3",
+            "price": 14400,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "novus-c2000-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "novus-c2000-rear-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/rear-bumper-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "id": "novus-c2000-spoiler-stock",
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "novus-c2000-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-02.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "novus-b100",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "novus-b100-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 132,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-b100-engine-horizon-l436",
+            "name": "Horizon - L436",
+            "price": 50000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 138,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-b100-engine-japo-l4ac",
+            "name": "JAPO - L4AC",
+            "price": 140000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 144,
+              "acceleration": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "novus-b100-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-b100-gearbox-japo-s6-at95",
+            "name": "JAPO - S6-AT95",
+            "price": 27000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "novus-b100-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "novus-b100-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "novus-b100-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-b100-tires-t-hunter-st91",
+            "name": "T-Hunter - ST91",
+            "price": 3000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "novus-b100-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "handbrake": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "novus-b100-differential-af-lsd005",
+            "name": "AF - LSD005",
+            "price": 22500,
+            "currency": "Fons",
+            "stats": {
+              "handbrake": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "id": "novus-b100-body-strength-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "novus-b100-body-strength-br-2",
+            "name": "BR-2",
+            "price": 7200,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "novus-b100-body-strength-br-3",
+            "name": "BR-3",
+            "price": 18000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "novus-b100-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "novus-b100-rear-bumper-stock",
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "novus-b100-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-02.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "terrax-g3",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "terrax-g3-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 138,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "terrax-g3-engine-horizon-v801d",
+            "name": "Horizon - V801D",
+            "price": 58000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 143,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "terrax-g3-gearbox-japo-s6-at02",
+            "name": "JAPO - S6-AT02",
+            "default": true,
+            "stats": {
+              "shift_speed": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "terrax-g3-gearbox-japo-h6-at02",
+            "name": "JAPO - H6-AT02",
+            "price": 36000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "terrax-g3-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 7,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "terrax-g3-suspension-af-ds25",
+            "name": "AF - DS25",
+            "price": 24000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "terrax-g3-suspension-af-hds33",
+            "name": "AF - HDS33",
+            "price": 24000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "terrax-g3-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "terrax-g3-brakes-master-ccb51",
+            "name": "Master - CCB51",
+            "price": 18000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "terrax-g3-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "terrax-g3-tires-t-hunter-wt55",
+            "name": "T-Hunter - WT55",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "terrax-g3-tires-t-hunter-st55",
+            "name": "T-Hunter - ST55",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "terrax-g3-tires-t-hunter-at58",
+            "name": "T-Hunter - AT58",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "terrax-g3-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "terrax-g3-differential-af-lsd045",
+            "name": "AF - LSD045",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "id": "terrax-g3-body-strength-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "terrax-g3-body-strength-br-3",
+            "name": "BR-3",
+            "price": 9600,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "terrax-g3-body-strength-br-4",
+            "name": "BR-4",
+            "price": 24000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "terrax-g3-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-front-bumper.webp"
+          },
+          {
+            "id": "terrax-g3-front-bumper-profront-fb425",
+            "name": "ProFront - FB425",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-front-bumper-profront-fb425.webp"
+          },
+          {
+            "id": "terrax-g3-front-bumper-profront-fb435",
+            "name": "ProFront - FB435",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-front-bumper-profront-fb435.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "terrax-g3-rear-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-rear-bumper.webp"
+          },
+          {
+            "id": "terrax-g3-rear-bumper-profront-rb471",
+            "name": "ProFront - RB471",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-rear-bumper-profront-rb471.webp"
+          },
+          {
+            "id": "terrax-g3-rear-bumper-profront-rb485",
+            "name": "ProFront - RB485",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-rear-bumper-profront-rb485.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "id": "terrax-g3-spoiler-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-spoiler.webp"
+          },
+          {
+            "id": "terrax-g3-spoiler-profront-s401",
+            "name": "ProFront - S401",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-spoiler-profront-s401.webp"
+          },
+          {
+            "id": "terrax-g3-spoiler-profront-lr01",
+            "name": "ProFront - LR01",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-spoiler-profront-lr01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "terrax-g3-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels.webp"
+          },
+          {
+            "id": "terrax-g3-wheels-aster-wh421",
+            "name": "Aster - WH421",
+            "price": 5000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels-aster-wh421.webp"
+          },
+          {
+            "id": "terrax-g3-wheels-aster-wh451",
+            "name": "Aster - WH451",
+            "price": 5000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels-aster-wh451.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "novus-m1000",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "novus-m1000-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 146,
+              "acceleration": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-m1000-engine-horizon-l436",
+            "name": "Horizon - L436",
+            "price": 90000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 151,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "novus-m1000-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-m1000-gearbox-japo-s6-at82",
+            "name": "JAPO - S6-AT82",
+            "price": 63000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "novus-m1000-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "novus-m1000-suspension-master-nw-ds24",
+            "name": "Master - NW-DS24",
+            "price": 42000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "novus-m1000-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "novus-m1000-brakes-master-db12",
+            "name": "Master - DB12",
+            "price": 31500,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "novus-m1000-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-m1000-tires-t-hunter-wt95",
+            "name": "T-Hunter - WT95",
+            "price": 21000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-m1000-tires-t-hunter-st95",
+            "name": "T-Hunter - ST95",
+            "price": 21000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "novus-m1000-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "novus-m1000-differential-af-lsd26",
+            "name": "AF - LSD26",
+            "price": 52500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "id": "novus-m1000-body-strength-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "novus-m1000-body-strength-br-2",
+            "name": "BR-2",
+            "price": 16800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "novus-m1000-body-strength-br-3",
+            "name": "BR-3",
+            "price": 42000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "novus-m1000-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "novus-m1000-rear-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "id": "novus-m1000-spoiler-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          },
+          {
+            "id": "novus-m1000-spoiler-s82",
+            "name": "S82",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/novus-m1000-spoiler-s82.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "novus-m1000-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-03.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "novus-st79",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "novus-st79-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 155,
+              "acceleration": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-st79-engine-japo-l4ac",
+            "name": "JAPO - L4AC",
+            "price": 120000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 160,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-st79-engine-japo-l4agec",
+            "name": "JAPO - L4AGEC",
+            "price": 300000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 166,
+              "acceleration": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-st79-engine-japo-l4age",
+            "name": "JAPO - L4AGE",
+            "price": 640000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 172,
+              "acceleration": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "novus-st79-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-st79-gearbox-master-s4-mt72",
+            "name": "Master - S4-MT72",
+            "price": 32400,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-st79-gearbox-master-s5-mt75",
+            "name": "Master - S5-MT75",
+            "price": 67500,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-st79-gearbox-master-s5-mt76",
+            "name": "Master - S5-MT76",
+            "price": 108000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "novus-st79-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "novus-st79-suspension-master-ds60",
+            "name": "Master - DS60",
+            "price": 72000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "novus-st79-suspension-master-hds61",
+            "name": "Master - HDS61",
+            "price": 72000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 6,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "novus-st79-suspension-master-hds63",
+            "name": "Master - HDS63",
+            "price": 72000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 6,
+              "suspension_damper": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "novus-st79-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "novus-st79-brakes-master-db81",
+            "name": "Master - DB81",
+            "price": 16200,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "novus-st79-brakes-master-db82",
+            "name": "Master - DB82",
+            "price": 33750,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "novus-st79-brakes-master-db83",
+            "name": "Master - DB83",
+            "price": 54000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "novus-st79-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-st79-tires-t-hunter-wt68",
+            "name": "T-Hunter - WT68",
+            "price": 36000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-st79-tires-t-hunter-st68",
+            "name": "T-Hunter - ST68",
+            "price": 36000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-st79-tires-t-hunter-tyre68",
+            "name": "T-Hunter - Tyre68",
+            "price": 36000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "novus-st79-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "novus-st79-differential-af-lsd82",
+            "name": "AF - LSD82",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "novus-st79-differential-af-lsd85",
+            "name": "AF - LSD85",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "novus-st79-differential-af-lsd004",
+            "name": "AF - LSD004",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "id": "novus-st79-body-strength-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "novus-st79-body-strength-br-2",
+            "name": "BR-2",
+            "price": 28800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "novus-st79-body-strength-br-3",
+            "name": "BR-3",
+            "price": 72000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "novus-st79-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "novus-st79-rear-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "novus-st79-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-03.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regalia-griffin",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "regalia-griffin-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 170,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-engine-horizon-v812",
+            "name": "Horizon - V812",
+            "price": 200000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 174,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-engine-horizon-v815",
+            "name": "Horizon - V815",
+            "price": 500000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 178,
+              "acceleration": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "regalia-griffin-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-gearbox-horizon-h6-at06",
+            "name": "Horizon - H6-AT06",
+            "price": 144000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-gearbox-horizon-h6-sg03",
+            "name": "Horizon - H6-SG03",
+            "price": 360000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "regalia-griffin-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-suspension-af-ds12",
+            "name": "AF - DS12",
+            "price": 240000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-suspension-af-hds11",
+            "name": "AF - HDS11",
+            "price": 240000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "regalia-griffin-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "handbrake": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-brakes-master-ccb21",
+            "name": "Master - CCB21",
+            "price": 180000,
+            "currency": "Fons",
+            "stats": {
+              "handbrake": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "regalia-griffin-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-tires-t-hunter-wt03",
+            "name": "T-Hunter - WT03",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-tires-t-hunter-st03",
+            "name": "T-Hunter - ST03",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-tires-t-hunter-tyre03",
+            "name": "T-Hunter - Tyre03",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "regalia-griffin-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-differential-af-lsd35",
+            "name": "AF - LSD35",
+            "price": 300000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-differential-af-lsd21",
+            "name": "AF - LSD21",
+            "price": 300000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "id": "regalia-griffin-body-strength-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-body-strength-br-2",
+            "name": "BR-2",
+            "price": 96000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-body-strength-br-3",
+            "name": "BR-3",
+            "price": 240000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "regalia-griffin-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          },
+          {
+            "id": "regalia-griffin-front-bumper-profront-fb302",
+            "name": "ProFront - FB302",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-front-bumper-profront-fb302.webp"
+          },
+          {
+            "id": "regalia-griffin-front-bumper-profront-fb303",
+            "name": "ProFront - FB303",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-front-bumper-profront-fb303.webp"
+          },
+          {
+            "id": "regalia-griffin-front-bumper-profront-fb304",
+            "name": "ProFront - FB304",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-front-bumper-profront-fb304.webp"
+          },
+          {
+            "id": "regalia-griffin-front-bumper-profront-fb305",
+            "name": "ProFront - FB305",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-front-bumper-profront-fb305.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "regalia-griffin-rear-bumper-profront-rb301",
+            "name": "ProFront - RB301",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/rear-bumper-generic.webp"
+          },
+          {
+            "id": "regalia-griffin-rear-bumper-profront-rb302",
+            "name": "ProFront - RB302",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-rear-bumper-profront-rb302.webp"
+          },
+          {
+            "id": "regalia-griffin-rear-bumper-profront-rb303",
+            "name": "ProFront - RB303",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-rear-bumper-profront-rb303.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "id": "regalia-griffin-spoiler-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler.webp"
+          },
+          {
+            "id": "regalia-griffin-spoiler-profront-s012",
+            "name": "ProFront - S012",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler-profront-s012.webp"
+          },
+          {
+            "id": "regalia-griffin-spoiler-profront-s023",
+            "name": "ProFront - S023",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler-profront-s023.webp"
+          },
+          {
+            "id": "regalia-griffin-spoiler-profront-s025",
+            "name": "ProFront - S025",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler-profront-s025.webp"
+          },
+          {
+            "id": "regalia-griffin-spoiler-profront-s035",
+            "name": "ProFront - S035",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler-profront-s035.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "regalia-griffin-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-01.webp"
+          },
+          {
+            "id": "regalia-griffin-wheels-aster-wh026",
+            "name": "Aster - WH026",
+            "price": 42000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-wheels-aster-wh026.webp"
+          },
+          {
+            "id": "regalia-griffin-wheels-aster-wh027",
+            "name": "Aster - WH027",
+            "price": 42000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-wheels-aster-wh027.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "novus-enforcer",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "novus-enforcer-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 172,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-enforcer-engine-japo-l4agec",
+            "name": "JAPO - L4AGEC",
+            "price": 225000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 176,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-enforcer-engine-horizon-v882",
+            "name": "Horizon - V882",
+            "price": 570000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 180,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "novus-enforcer-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-enforcer-tires-t-hunter-wt68",
+            "name": "T-Hunter - WT68",
+            "price": 97500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "novus-enforcer-tires-t-hunter-st68",
+            "name": "T-Hunter - ST68",
+            "price": 97500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "novus-enforcer-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 6,
+              "suspension_height": 7,
+              "suspension_damper": 2,
+              "handbrake": 8,
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "novus-enforcer-rear-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "novus-enforcer-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-01.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regalia-pursuit-v8",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 180,
+              "acceleration": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-engine-horizon-v882",
+            "name": "Horizon - V882",
+            "price": 480000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 183,
+              "acceleration": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-engine-horizon-v887",
+            "name": "Horizon - V887",
+            "price": 1250000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 186,
+              "acceleration": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-gearbox-horizon-h6-mt11",
+            "name": "Horizon - H6-MT11",
+            "price": 480000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-gearbox-horizon-r6-sg13",
+            "name": "Horizon - R6-SG13",
+            "price": 1200000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 6,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-suspension-af-ds52",
+            "name": "AF - DS52",
+            "price": 800000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 6,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-suspension-af-hds61",
+            "name": "AF - HDS61",
+            "price": 800000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 7,
+              "suspension_damper": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-suspension-af-hds33",
+            "name": "AF - HDS33",
+            "price": 800000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-brakes-master-ccb42",
+            "name": "Master - CCB42",
+            "price": 600000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-tires-t-hunter-wt17",
+            "name": "T-Hunter - WT17",
+            "price": 150000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-tires-t-hunter-st17",
+            "name": "T-Hunter - ST17",
+            "price": 150000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-tires-t-hunter-tyre17",
+            "name": "T-Hunter - Tyre17",
+            "price": 150000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-differential-af-lsd73",
+            "name": "AF - LSD73",
+            "price": 1000000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-body-strength-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-body-strength-br-2",
+            "name": "BR-2",
+            "price": 320000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-body-strength-br-3",
+            "name": "BR-3",
+            "price": 800000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-rear-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-spoiler-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "regalia-pursuit-v8-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-pursuit-v8-wheels.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-wheels-aster-wh006",
+            "name": "Aster - WH006",
+            "price": 132000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-pursuit-v8-wheels-aster-wh006.webp"
+          },
+          {
+            "id": "regalia-pursuit-v8-wheels-aster-wh011",
+            "name": "Aster - WH011",
+            "price": 132000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-pursuit-v8-wheels-aster-wh011.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regalia-lavelox",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "regalia-lavelox-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 197,
+              "acceleration": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "regalia-lavelox-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "regalia-lavelox-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "regalia-lavelox-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "regalia-lavelox-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-lavelox-tires-t-hunter-p71",
+            "name": "T-Hunter - P71",
+            "price": 360000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-lavelox-tires-t-hunter-p72",
+            "name": "T-Hunter - P72",
+            "price": 360000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-lavelox-tires-t-hunter-tyre17",
+            "name": "T-Hunter - Tyre17",
+            "price": 360000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "regalia-lavelox-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "regalia-lavelox-differential-af-lsd73",
+            "name": "AF - LSD73",
+            "price": 2700000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "id": "regalia-lavelox-body-strength-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "regalia-lavelox-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "regalia-lavelox-rear-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "id": "regalia-lavelox-spoiler-stock",
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "regalia-lavelox-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-03.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regalia-pendragon",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "regalia-pendragon-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 202,
+              "acceleration": 9,
+              "shift_speed": 8,
+              "suspension_height": 5,
+              "suspension_damper": 5,
+              "handbrake": 8,
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "regalia-pendragon-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-pendragon-tires-t-hunter-p71",
+            "name": "T-Hunter - P71",
+            "price": 400000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-pendragon-tires-t-hunter-p72",
+            "name": "T-Hunter - P72",
+            "price": 400000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "regalia-pendragon-tires-t-hunter-tyre03",
+            "name": "T-Hunter - Tyre03",
+            "price": 400000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "regalia-pendragon-differential-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "regalia-pendragon-differential-af-lsd73",
+            "name": "AF - LSD73",
+            "price": 3000000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "id": "regalia-pendragon-front-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "id": "regalia-pendragon-rear-bumper-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "regalia-pendragon-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-03.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "porsche-918-spyder",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "porsche-918-spyder-engine-engine-i",
+            "name": "Engine I",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 212,
+              "acceleration": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-engine-engine-ii",
+            "name": "Engine II",
+            "price": 4000000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 220,
+              "acceleration": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "porsche-918-spyder-gearbox-transmission-i",
+            "name": "Transmission I",
+            "default": true,
+            "stats": {
+              "shift_speed": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-gearbox-transmission-ii",
+            "name": "Transmission II",
+            "price": 1800000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-gearbox-transmission-iii",
+            "name": "Transmission III",
+            "price": 4500000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "porsche-918-spyder-suspension-suspension-i",
+            "name": "Suspension I",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-suspension-suspension-ii",
+            "name": "Suspension II",
+            "price": 3000000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-suspension-suspension-standard",
+            "name": "Suspension - Standard",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "porsche-918-spyder-brakes-brake-i",
+            "name": "Brake I",
+            "default": true,
+            "stats": {
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-brakes-brake-ii",
+            "name": "Brake II",
+            "price": 2250000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "porsche-918-spyder-tires-tires-default",
+            "name": "Tires - Default",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-tires-tires-rain",
+            "name": "Tires - Rain",
+            "price": 425000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-tires-tires-snow",
+            "name": "Tires - Snow",
+            "price": 425000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-tires-tires-standard",
+            "name": "Tires - Standard",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "porsche-918-spyder-differential-standard-differential",
+            "name": "Standard Differential",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "porsche-918-spyder-differential-enhanced-differential",
+            "name": "Enhanced Differential",
+            "price": 3750000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "id": "porsche-918-spyder-spoiler-stock",
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "porsche-918-spyder-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rover-a1",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "rover-a1-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 40,
+              "acceleration": 2,
+              "shift_speed": 0,
+              "suspension_height": 2,
+              "suspension_damper": 2,
+              "handbrake": 6,
+              "braking_force": 5
+            }
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "rover-a1-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "rover-a1-wheels-stock",
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regalia-novis-st-x-950",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "regalia-novis-st-x-950-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 140,
+              "acceleration": 6,
+              "shift_speed": 8,
+              "suspension_height": 5,
+              "suspension_damper": 5,
+              "handbrake": 8,
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "regalia-novis-st-x-950-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "regalia-novis-st-x-950-wheels-stock",
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regalia-blizzard-v4",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "regalia-blizzard-v4-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 180,
+              "acceleration": 7,
+              "shift_speed": 10,
+              "suspension_height": 5,
+              "suspension_damper": 4,
+              "handbrake": 9,
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "regalia-blizzard-v4-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "regalia-blizzard-v4-wheels-stock",
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regalia-draco",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "regalia-draco-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 180,
+              "acceleration": 7,
+              "shift_speed": 10,
+              "suspension_height": 2,
+              "suspension_damper": 7,
+              "handbrake": 9,
+              "braking_force": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tomorrow-rush",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "tomorrow-rush-engine-tomorrow-bound-engine",
+            "name": "Tomorrow-Bound Engine",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 50,
+              "acceleration": 2,
+              "shift_speed": 0,
+              "suspension_height": 1,
+              "suspension_damper": 9,
+              "handbrake": 7,
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tomorrow-rush-engine-tomorrow-bound-engine.webp"
+          },
+          {
+            "id": "tomorrow-rush-engine-overmorrow-engine",
+            "name": "Overmorrow Engine",
+            "stats": {
+              "top_speed_kmh": 55,
+              "acceleration": 2,
+              "shift_speed": 0,
+              "suspension_height": 1,
+              "suspension_damper": 9,
+              "handbrake": 7,
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tomorrow-rush-engine-overmorrow-engine.webp"
+          },
+          {
+            "id": "tomorrow-rush-engine-beyond-tomorrow-engine",
+            "name": "Beyond-Tomorrow Engine",
+            "stats": {
+              "top_speed_kmh": 60,
+              "acceleration": 2,
+              "shift_speed": 0,
+              "suspension_height": 1,
+              "suspension_damper": 9,
+              "handbrake": 7,
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tomorrow-rush-engine-beyond-tomorrow-engine.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k01",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "k01-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 80,
+              "acceleration": 8,
+              "shift_speed": 10,
+              "suspension_height": 2,
+              "suspension_damper": 9,
+              "handbrake": 9,
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "k01-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "k01-tires-t-hunter-tyre91",
+            "name": "T-Hunter-Tyre91",
+            "price": 75000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      }
+    ]
+  }
+]

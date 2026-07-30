@@ -17,53 +17,7 @@
       "currency": "Paw-Paw"
     },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/tomorrow-rush.png",
-    "modifications": [
-      {
-        "category": "Engine",
-        "items": [
-          {
-            "name": "Tomorrow-Bound Engine",
-            "default": true,
-            "stats": {
-              "top_speed_kmh": 50,
-              "acceleration": 2,
-              "shift_speed": 0,
-              "suspension_height": 1,
-              "suspension_damper": 9,
-              "handbrake": 7,
-              "braking_force": 5
-            },
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tomorrow-rush-engine-tomorrow-bound-engine.webp"
-          },
-          {
-            "name": "Overmorrow Engine",
-            "stats": {
-              "top_speed_kmh": 55,
-              "acceleration": 2,
-              "shift_speed": 0,
-              "suspension_height": 1,
-              "suspension_damper": 9,
-              "handbrake": 7,
-              "braking_force": 5
-            },
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tomorrow-rush-engine-overmorrow-engine.webp"
-          },
-          {
-            "name": "Beyond-Tomorrow Engine",
-            "stats": {
-              "top_speed_kmh": 60,
-              "acceleration": 2,
-              "shift_speed": 0,
-              "suspension_height": 1,
-              "suspension_damper": 9,
-              "handbrake": 7,
-              "braking_force": 5
-            },
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tomorrow-rush-engine-beyond-tomorrow-engine.webp"
-          }
-        ]
-      }
-    ]
+    "modifications_id": "tomorrow-rush"
   },
   {
     "id": "k01",
@@ -88,70 +42,7 @@
       "currency": "Fons"
     },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/k01.png",
-    "modifications": [
-      {
-        "category": "Engine",
-        "items": [
-          {
-            "name": "Stock",
-            "default": true,
-            "stats": {
-              "top_speed_kmh": 80,
-              "acceleration": 8,
-              "shift_speed": 10,
-              "suspension_height": 2,
-              "suspension_damper": 9,
-              "handbrake": 9,
-              "braking_force": 7
-            },
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
-          }
-        ]
-      },
-      {
-        "category": "Tires",
-        "items": [
-          {
-            "name": "Stock",
-            "default": true,
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
-          },
-          {
-            "name": "T-Hunter-Tyre91",
-            "price": 75000,
-            "currency": "Fons",
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
-          }
-        ]
-      }
-    ],
-    "liveries": [
-      {
-        "category": "Livery",
-        "items": [
-          {
-            "name": "Across the Finish Line - Livery",
-            "default": true,
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/k01-livery-across-the-finish-line.webp"
-          },
-          {
-            "name": "Dark Flame Striker - Livery",
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/k01-livery-dark-flame-striker.webp"
-          },
-          {
-            "name": "Night Wanderer - Livery",
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/k01-livery-night-wanderer.webp"
-          },
-          {
-            "name": "Blue Channel - Livery",
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/k01-livery-blue-channel.webp"
-          },
-          {
-            "name": "Crimson Alert - Livery",
-            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/k01-livery-crimson-alert.webp"
-          }
-        ]
-      }
-    ]
+    "modifications_id": "k01",
+    "liveries_id": "k01"
   }
 ]
