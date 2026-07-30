@@ -21,7 +21,276 @@
       "price": 50000,
       "currency": "Fons"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-c2000.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-c2000.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 130,
+              "acceleration": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - L422",
+            "price": 20000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 135,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "JAPO - S6-AT95",
+            "price": 21600,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "Master - NW-DS15",
+            "price": 14400,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Master - DB09",
+            "price": 10800,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - WT91",
+            "price": 7200,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - ST91",
+            "price": 7200,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD005",
+            "price": 18000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-2",
+            "price": 5760,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-3",
+            "price": 14400,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/rear-bumper-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-02.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-08.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-09.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-10.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-11.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-12.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-13.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-14.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-15.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-16.webp"
+          },
+          {
+            "name": "Painty - Color Code 10",
+            "price": 6000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-17.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "novus-b100",
@@ -45,7 +314,259 @@
       "price": 20000,
       "currency": "Paw-Paw"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-b100.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-b100.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 132,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - L436",
+            "price": 50000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 138,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "JAPO - L4AC",
+            "price": 140000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 144,
+              "acceleration": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "JAPO - S6-AT95",
+            "price": 27000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - ST91",
+            "price": 3000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "handbrake": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD005",
+            "price": 22500,
+            "currency": "Fons",
+            "stats": {
+              "handbrake": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-2",
+            "price": 7200,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-3",
+            "price": 18000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-02.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "name": "Pinky Paws - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-b100-livery-pinky-paws.webp"
+          },
+          {
+            "name": "Three's Company - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-b100-livery-three-s-company.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 02",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-09.webp"
+          },
+          {
+            "name": "Painty - Color Code 01",
+            "price": 7500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-25.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 7500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-10.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 7500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-11.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 7500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-05.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 7500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-19.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 7500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-31.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 7500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-04.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 7500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-16.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "terrax-g3",
@@ -69,7 +590,371 @@
       "price": 200000,
       "currency": "Fons"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/terrax-g3.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/terrax-g3.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 138,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - V801D",
+            "price": 58000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 143,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "JAPO - S6-AT02",
+            "default": true,
+            "stats": {
+              "shift_speed": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "JAPO - H6-AT02",
+            "price": 36000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 7,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "AF - DS25",
+            "price": 24000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "AF - HDS33",
+            "price": 24000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Master - CCB51",
+            "price": 18000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - WT55",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - ST55",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - AT58",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD045",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-3",
+            "price": 9600,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-4",
+            "price": 24000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-front-bumper.webp"
+          },
+          {
+            "name": "ProFront - FB425",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-front-bumper-profront-fb425.webp"
+          },
+          {
+            "name": "ProFront - FB435",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-front-bumper-profront-fb435.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-rear-bumper.webp"
+          },
+          {
+            "name": "ProFront - RB471",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-rear-bumper-profront-rb471.webp"
+          },
+          {
+            "name": "ProFront - RB485",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-rear-bumper-profront-rb485.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-spoiler.webp"
+          },
+          {
+            "name": "ProFront - S401",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-spoiler-profront-s401.webp"
+          },
+          {
+            "name": "ProFront - LR01",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-spoiler-profront-lr01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels.webp"
+          },
+          {
+            "name": "Aster - WH421",
+            "price": 5000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels-aster-wh421.webp"
+          },
+          {
+            "name": "Aster - WH451",
+            "price": 5000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels-aster-wh451.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "name": "Mountain Star - Livery",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-g3-livery-mountain-star.webp"
+          },
+          {
+            "name": "Sunrise Journey - Livery",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-g3-livery-sunrise-journey.webp"
+          },
+          {
+            "name": "Plains Highway - Livery",
+            "price": 12000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-g3-livery-plains-highway.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-g3-paint-painty-color-code-01.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-16.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-09.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-g3-paint-painty-color-code-04.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-02.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-03.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-13.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-33.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-08.webp"
+          },
+          {
+            "name": "Painty - Color Code 10",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-06.webp"
+          },
+          {
+            "name": "Painty - Color Code 11",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-23.webp"
+          },
+          {
+            "name": "Painty - Color Code 12",
+            "price": 10000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-01.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "novus-m1000",
@@ -93,7 +978,335 @@
       "price": 900000,
       "currency": "Fons"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-m1000.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-m1000.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 146,
+              "acceleration": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - L436",
+            "price": 90000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 151,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "JAPO - S6-AT82",
+            "price": 63000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "Master - NW-DS24",
+            "price": 42000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Master - DB12",
+            "price": 31500,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - WT95",
+            "price": 21000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - ST95",
+            "price": 21000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD26",
+            "price": 52500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-2",
+            "price": 16800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-3",
+            "price": 42000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          },
+          {
+            "name": "S82",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/novus-m1000-spoiler-s82.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-03.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "name": "Bay Tour - Livery",
+            "price": 21000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-m1000-livery-bay-tour.webp"
+          },
+          {
+            "name": "Track 88 - Livery",
+            "price": 21000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-m1000-livery-track-88.webp"
+          },
+          {
+            "name": "Road Clear - Livery",
+            "price": 21000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-m1000-livery-road-clear.webp"
+          },
+          {
+            "name": "Ghosts of Century - Livery",
+            "price": 21000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-m1000-livery-ghosts-of-century.webp"
+          },
+          {
+            "name": "Gen Z - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-m1000-livery-gen-z.webp"
+          },
+          {
+            "name": "Tiger Incoming! - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-01.webp"
+          },
+          {
+            "name": "Warp Light - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-m1000-livery-warp-light.webp"
+          },
+          {
+            "name": "Cheers to Departure - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-m1000-livery-cheers-to-departure.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-30.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-30.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-06.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-01.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-03.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-30.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-22.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-13.webp"
+          },
+          {
+            "name": "Painty - Color Code 10",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-10.webp"
+          },
+          {
+            "name": "Painty - Color Code 11",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-23.webp"
+          },
+          {
+            "name": "Painty - Color Code 12",
+            "price": 17500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-02.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "novus-st79",
@@ -117,7 +1330,369 @@
       "price": 600000,
       "currency": "Fons"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-st79.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-st79.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 155,
+              "acceleration": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "JAPO - L4AC",
+            "price": 120000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 160,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "JAPO - L4AGEC",
+            "price": 300000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 166,
+              "acceleration": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "JAPO - L4AGE",
+            "price": 640000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 172,
+              "acceleration": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Master - S4-MT72",
+            "price": 32400,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Master - S5-MT75",
+            "price": 67500,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Master - S5-MT76",
+            "price": 108000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "Master - DS60",
+            "price": 72000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "Master - HDS61",
+            "price": 72000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 6,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "Master - HDS63",
+            "price": 72000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 6,
+              "suspension_damper": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Master - DB81",
+            "price": 16200,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Master - DB82",
+            "price": 33750,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Master - DB83",
+            "price": 54000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - WT68",
+            "price": 36000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - ST68",
+            "price": 36000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - Tyre68",
+            "price": 36000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD82",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD85",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD004",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-2",
+            "price": 28800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-3",
+            "price": 72000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-03.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "name": "Speed Legendary - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-st79-livery-speed-legendary.webp"
+          },
+          {
+            "name": "Mint Rush - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-st79-livery-mint-rush.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-08.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-10.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-15.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-28.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-19.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-27.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-29.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Painty - Color Code 10",
+            "price": 30000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-01.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "regalia-griffin",
@@ -141,7 +1716,412 @@
       "price": 1500000,
       "currency": "Fons"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-griffin.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-griffin.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 170,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - V812",
+            "price": 200000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 174,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - V815",
+            "price": 500000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 178,
+              "acceleration": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Horizon - H6-AT06",
+            "price": 144000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Horizon - H6-SG03",
+            "price": 360000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "AF - DS12",
+            "price": 240000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "AF - HDS11",
+            "price": 240000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "handbrake": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Master - CCB21",
+            "price": 180000,
+            "currency": "Fons",
+            "stats": {
+              "handbrake": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - WT03",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - ST03",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - Tyre03",
+            "price": 90000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD35",
+            "price": 300000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD21",
+            "price": 300000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-2",
+            "price": 96000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-3",
+            "price": 240000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          },
+          {
+            "name": "ProFront - FB302",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-front-bumper-profront-fb302.webp"
+          },
+          {
+            "name": "ProFront - FB303",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-front-bumper-profront-fb303.webp"
+          },
+          {
+            "name": "ProFront - FB304",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-front-bumper-profront-fb304.webp"
+          },
+          {
+            "name": "ProFront - FB305",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-front-bumper-profront-fb305.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "ProFront - RB301",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/rear-bumper-generic.webp"
+          },
+          {
+            "name": "ProFront - RB302",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-rear-bumper-profront-rb302.webp"
+          },
+          {
+            "name": "ProFront - RB303",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-rear-bumper-profront-rb303.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler.webp"
+          },
+          {
+            "name": "ProFront - S012",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler-profront-s012.webp"
+          },
+          {
+            "name": "ProFront - S023",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler-profront-s023.webp"
+          },
+          {
+            "name": "ProFront - S025",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler-profront-s025.webp"
+          },
+          {
+            "name": "ProFront - S035",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-spoiler-profront-s035.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-01.webp"
+          },
+          {
+            "name": "Aster - WH026",
+            "price": 42000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-wheels-aster-wh026.webp"
+          },
+          {
+            "name": "Aster - WH027",
+            "price": 42000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-griffin-wheels-aster-wh027.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "name": "Electric Phantom - Livery",
+            "price": 100800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/regalia-griffin-livery-electric-phantom.webp"
+          },
+          {
+            "name": "Night Aurora - Livery",
+            "price": 100800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/regalia-griffin-livery-night-aurora.webp"
+          },
+          {
+            "name": "Crossing Lightning - Livery",
+            "price": 100800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/regalia-griffin-livery-crossing-lightning.webp"
+          },
+          {
+            "name": "Midnight Rose - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/regalia-griffin-livery-midnight-rose.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-19.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-20.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-21.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-22.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-23.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-24.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-25.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-26.webp"
+          },
+          {
+            "name": "Painty - Color Code 10",
+            "price": 84000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/regalia-griffin-paint-painty-color-code-10.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "novus-enforcer",
@@ -165,7 +2145,198 @@
       "price": 1720000,
       "currency": "Fons"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-enforcer.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-enforcer.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 172,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "JAPO - L4AGEC",
+            "price": 225000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 176,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - V882",
+            "price": 570000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 180,
+              "acceleration": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - WT68",
+            "price": 97500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - ST68",
+            "price": 97500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 6,
+              "suspension_height": 7,
+              "suspension_damper": 2,
+              "handbrake": 8,
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-01.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "name": "On Patrol Today - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-enforcer-livery-on-patrol-today.webp"
+          },
+          {
+            "name": "Swift Cab - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-enforcer-livery-swift-cab.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-19.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-05.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-11.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-09.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-enforcer-paint.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-28.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-22.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-30.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-29.webp"
+          },
+          {
+            "name": "Painty - Color Code 10",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-14.webp"
+          },
+          {
+            "name": "Painty - Color Code 11",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-enforcer-paint.webp"
+          },
+          {
+            "name": "Painty - Color Code 12",
+            "price": 96350,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-15.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "regalia-pursuit-v8",
@@ -189,7 +2360,350 @@
       "price": 4000000,
       "currency": "Fons"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-pursuit-v8.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-pursuit-v8.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 180,
+              "acceleration": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - V882",
+            "price": 480000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 183,
+              "acceleration": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Horizon - V887",
+            "price": 1250000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 186,
+              "acceleration": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Horizon - H6-MT11",
+            "price": 480000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Horizon - R6-SG13",
+            "price": 1200000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 6,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "AF - DS52",
+            "price": 800000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 6,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "AF - HDS61",
+            "price": 800000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 7,
+              "suspension_damper": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "AF - HDS33",
+            "price": 800000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Master - CCB42",
+            "price": 600000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - WT17",
+            "price": 150000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - ST17",
+            "price": 150000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - Tyre17",
+            "price": 150000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD73",
+            "price": 1000000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-2",
+            "price": 320000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          },
+          {
+            "name": "BR-3",
+            "price": 800000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-pursuit-v8-wheels.webp"
+          },
+          {
+            "name": "Aster - WH006",
+            "price": 132000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-pursuit-v8-wheels-aster-wh006.webp"
+          },
+          {
+            "name": "Aster - WH011",
+            "price": 132000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/regalia-pursuit-v8-wheels-aster-wh011.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "name": "Tiger Incoming! - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-19.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-28.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-33.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-08.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-11.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-15.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-20.webp"
+          },
+          {
+            "name": "Painty - Color Code 10",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-28.webp"
+          },
+          {
+            "name": "Painty - Color Code 11",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-05.webp"
+          },
+          {
+            "name": "Painty - Color Code 12",
+            "price": 264000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-27.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "regalia-lavelox",
@@ -219,6 +2733,221 @@
       "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox-gallery-2.jpg",
       "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox-gallery-3.jpg",
       "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox-gallery-4.jpg"
+    ],
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 197,
+              "acceleration": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - P71",
+            "price": 360000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - P72",
+            "price": 360000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - Tyre17",
+            "price": 360000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD73",
+            "price": 2700000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Body Strength",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/body-strength-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-02.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-03.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-22.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-21.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-09.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-17.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-26.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-17.webp"
+          },
+          {
+            "name": "Painty - Color Code 08",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-07.webp"
+          },
+          {
+            "name": "Painty - Color Code 09",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-32.webp"
+          },
+          {
+            "name": "Painty - Color Code 10",
+            "price": 712800,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-10.webp"
+          }
+        ]
+      }
     ]
   },
   {
@@ -243,7 +2972,164 @@
       "price": 12000000,
       "currency": "Fons"
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-pendragon.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-pendragon.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 202,
+              "acceleration": 9,
+              "shift_speed": 8,
+              "suspension_height": 5,
+              "suspension_damper": 5,
+              "handbrake": 8,
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - P71",
+            "price": 400000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - P72",
+            "price": 400000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "T-Hunter - Tyre03",
+            "price": 400000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "AF - LSD73",
+            "price": 3000000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Front Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Rear Bumper",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/wheels-generic-03.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "name": "Tomato Cruise - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/regalia-pendragon-livery-tomato-cruise.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-16.webp"
+          },
+          {
+            "name": "Painty - Color Code 02",
+            "price": 792000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Painty - Color Code 03",
+            "price": 792000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-02.webp"
+          },
+          {
+            "name": "Painty - Color Code 04",
+            "price": 792000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-07.webp"
+          },
+          {
+            "name": "Painty - Color Code 05",
+            "price": 792000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-13.webp"
+          },
+          {
+            "name": "Painty - Color Code 06",
+            "price": 792000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-26.webp"
+          },
+          {
+            "name": "Painty - Color Code 07",
+            "price": 792000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-11.webp"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "porsche-918-spyder",
@@ -265,6 +3151,226 @@
       "drivetrain": "AWD",
       "gears": 5
     },
-    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-918-spyder.png"
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-918-spyder.png",
+    "modifications": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "name": "Engine I",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 212,
+              "acceleration": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "name": "Engine II",
+            "price": 4000000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 220,
+              "acceleration": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "name": "Transmission I",
+            "default": true,
+            "stats": {
+              "shift_speed": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Transmission II",
+            "price": 1800000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "name": "Transmission III",
+            "price": 4500000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "name": "Suspension I",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "Suspension II",
+            "price": 3000000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "name": "Suspension - Standard",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "name": "Brake I",
+            "default": true,
+            "stats": {
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "name": "Brake II",
+            "price": 2250000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "name": "Tires - Default",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "Tires - Rain",
+            "price": 425000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "Tires - Snow",
+            "price": 425000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "name": "Tires - Standard",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "name": "Standard Differential",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "name": "Enhanced Differential",
+            "price": 3750000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      }
+    ],
+    "liveries": [
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "name": "Rhodium Silver Metallic",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "name": "Basalt Black Metallic",
+            "price": 990000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-19.webp"
+          },
+          {
+            "name": "Sapphire Blue Metallic",
+            "price": 990000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-29.webp"
+          },
+          {
+            "name": "Dark Blue Metallic",
+            "price": 990000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-31.webp"
+          },
+          {
+            "name": "Meteor Grey Metallic",
+            "price": 990000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-20.webp"
+          },
+          {
+            "name": "Racing Yellow",
+            "price": 990000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-21.webp"
+          },
+          {
+            "name": "Guards Red",
+            "price": 990000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-08.webp"
+          }
+        ]
+      }
+    ]
   }
 ]
