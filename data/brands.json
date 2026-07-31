@@ -2,21 +2,25 @@
   {
     "id": "novus",
     "name": "Novus",
+    "description": "An authorized dealership of the famous car brand \"Novus\", where you can enjoy all the benefits that Novus offers to customers.",
     "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/brands/novus-logo.png"
   },
   {
     "id": "terrax",
     "name": "TerraX",
+    "description": "TerraX Off-Road, founded by the mysterious explorer \"Iron Knight,\" is renowned for its ultimate performance. Its vehicles are built specifically for extreme terrain and once dominated the top ten rankings of Hethereau's dangerous terrain off-road challenge, achieving fame in one decisive victory.",
     "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/brands/terrax-logo.png"
   },
   {
     "id": "regalia",
     "name": "Regalia",
+    "description": "A century-old luxury sports car brand whose proudly soaring griffin emblem has become a symbol of noble status and ultimate luxury. Its high-performance racing cars are the darlings of Tempestas racers-every seasoned racer dreams of owning their very own Regalia!",
     "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/brands/regalia-logo.png"
   },
     {
     "id": "porsche",
     "name": "Porsche",
+    "description": "Porsche is a German automobile manufacturer specializing in high-performance sports cars, SUVs, and sedans. Founded in 1931 by Ferdinand Porsche, the company has become synonymous with luxury, engineering excellence, and motorsport heritage. Porsche's iconic models, such as the 911 and the Cayenne, have earned a reputation for their precision engineering, distinctive design, and exhilarating driving experience.",
     "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/brands/porsche-logo.png"
   }
 ]
