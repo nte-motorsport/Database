@@ -6,7 +6,6 @@
     "name": "Novus - C2000",
     "description": "Novus C2000, a perfect blend of economy and exceptional performance. With its spacious and comfortable ride and efficient power system, every journey is stable and reliable.",
     "stats": {
-      "influence": "Volkswagen Jetta",
       "top_speed_kmh": 130,
       "reverse_top_speed_kmh": 40,
       "acceleration": 3,
@@ -21,6 +20,12 @@
       "price": 50000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "description": "The Volkswagen Jetta is a compact car manufactured and marketed by Volkswagen since 1979, positioned to fill a sedan niche slightly above the Golf hatchback. It has been marketed over seven generations under various names, including Atlantic, Vento, Bora, City Jetta, GLI, and Sagitar in China. By mid-2011, almost 10 million Jettas had been produced and sold worldwide, and by 2014 Volkswagen had marketed over 14 million units, making it the brand's top-selling model.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/volkswagen-jetta.jpg"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-c2000.png",
     "modifications_id": "novus-c2000",
     "liveries_id": "novus-c2000"
@@ -32,7 +37,6 @@
     "name": "Novus - B100",
     "description": "The new Novus B100, featuring lightweight construction and low center of gravity, delivers stable yet responsive driving feedback.",
     "stats": {
-      "influence": "Honda N-Box",
       "top_speed_kmh": 132,
       "reverse_top_speed_kmh": 40,
       "acceleration": 4,
@@ -47,6 +51,12 @@
       "price": 20000,
       "currency": "Paw-Paw"
     },
+    "influence": {
+      "brand": "Honda",
+      "model": "N-Box",
+      "description": "The Honda N-Box is a kei car produced by Honda since 2011 over three generations. Prized in Japan for its compact footprint and tall, spacious cabin typical of the kei class, it has been the country's best-selling car for extended stretches, remaining the top seller for 28 consecutive months as of December 2019. By 2019, roughly 1.7 million units had been sold since its introduction.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/honda-n-box.webp"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-b100.png",
     "modifications_id": "novus-b100",
     "liveries_id": "novus-b100"
@@ -58,7 +68,6 @@
     "name": "TerraX - G3",
     "description": "G3, with its unmatched robust look, paired with the most advanced four-wheel drive system and luxurious interior, ensures your confidence and poise in any setting, whether it's for business or leisure.",
     "stats": {
-      "influence": "Suzuki Jimny",
       "top_speed_kmh": 138,
       "reverse_top_speed_kmh": 40,
       "acceleration": 4,
@@ -73,6 +82,12 @@
       "price": 200000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "Suzuki",
+      "model": "Jimny",
+      "description": "The Suzuki Jimny is a series of four-wheel drive off-road mini SUVs manufactured and marketed by Japanese automaker Suzuki since 1970. Originally built to Japan's kei car classification, it continues to be offered in both kei-compliant and larger versions for global markets, with body-on-frame construction and part-time four-wheel drive suited to serious off-road use. Through September 2018, Suzuki had sold 2.85 million units across 194 countries.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/suzuki-jimny.jpg"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/terrax-g3.png",
     "modifications_id": "terrax-g3",
     "liveries_id": "terrax-g3"
@@ -84,7 +99,6 @@
     "name": "Novus - M1000",
     "description": "Novus M1000 features a compact body design with exceptional agile handling, letting you navigate through city traffic with ease.",
     "stats": {
-      "influence": "Mini Cooper",
       "top_speed_kmh": 146,
       "reverse_top_speed_kmh": 40,
       "acceleration": 5,
@@ -99,6 +113,12 @@
       "price": 900000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "Mini",
+      "model": "Cooper",
+      "description": "The Mini, stylised as MINI and commonly known through variants such as the Mini Cooper, is a supermini car that has been made since April 2001. It is a family of retro-styled cars with a front-engine, front-wheel-drive layout, produced across four generations as three-door hatchbacks, two-door convertibles, and, from the third generation onward, five-door hatchbacks. The range has been marketed under names including Mini Cooper, Mini Hatch, Mini Hardtop, Mini One, and Mini John Cooper Works.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/mini-cooper.jpg"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-m1000.png",
     "modifications_id": "novus-m1000",
     "liveries_id": "novus-m1000"
@@ -110,7 +130,6 @@
     "name": "Novus - ST79",
     "description": "ST79, featuring a simple and practical mechanical structure, and a retro appearance paired with a mechanical manual transmission full of character. Pure driving pleasure begins here.",
     "stats": {
-      "influence": "Toyota Corolla",
       "top_speed_kmh": 155,
       "reverse_top_speed_kmh": 40,
       "acceleration": 5,
@@ -125,6 +144,12 @@
       "price": 600000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "description": "The Toyota Corolla is a series of compact cars manufactured and marketed globally by Toyota Motor Corporation since 1966. Since 1997 it has remained the best-selling automobile nameplate of all time, surpassing the Volkswagen Beetle. Toyota passed the milestone of 50 million Corollas sold across twelve generations in 2021, with over 54 million units sold as of early 2026.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/toyota-corolla.jpg"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-st79.png",
     "modifications_id": "novus-st79",
     "liveries_id": "novus-st79"
@@ -136,7 +161,6 @@
     "name": "Regalia - Griffin",
     "description": "Griffin, a masterpiece of craftsmanship and technology from Regalia, is equipped with the latest driver assistance system and intelligent infotainment system. The sleek body and signature pop-up headlights perfectly reflect Regalia's pursuit of excellence in detail.",
     "stats": {
-      "influence": "Porsche 911",
       "top_speed_kmh": 170,
       "reverse_top_speed_kmh": 40,
       "acceleration": 6,
@@ -151,6 +175,12 @@
       "price": 1500000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "Porsche",
+      "model": "911",
+      "description": "The Porsche 911 is a family of two-door, high-performance rear-engine sports cars introduced in September 1964 by Porsche of Stuttgart, Germany. All 911s have a rear-mounted flat-six engine and usually 2+2 seating, aside from special two-seater variants; the models were originally air-cooled before water-cooled engines were introduced with the 996 series in 1998. Continuously produced since its debut, the 911 has become one of the most iconic sports cars in automotive history.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-911.webp"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-griffin.png",
     "modifications_id": "regalia-griffin",
     "liveries_id": "regalia-griffin"
@@ -162,7 +192,6 @@
     "name": "Novus - Enforcer",
     "description": "Enforcer. Bold body lines and raw horsepower combine in a tough, reliable design built to help you dominate the road.",
     "stats": {
-      "influence": "Dodge Charger",
       "top_speed_kmh": 172,
       "reverse_top_speed_kmh": 40,
       "acceleration": 6,
@@ -177,6 +206,12 @@
       "price": 1720000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "Dodge",
+      "model": "Charger",
+      "description": "The Dodge Charger is a model of automobile marketed by Dodge in various forms over eight generations since 1966, following a 1964 show car and a 1965 concept that previewed the production version. In the United States the nameplate has spanned mid-size cars, personal luxury coupes, subcompact hatchbacks, and full-size sedans; the original 1966 model was an upscale, upsized pony car styled as a luxurious fastback rather than a traditional muscle car, aimed at more mature buyers.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/dodge-charger.jpg"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-enforcer.png",
     "modifications_id": "novus-enforcer",
     "liveries_id": "novus-enforcer"
@@ -188,7 +223,6 @@
     "name": "Regalia - Pursuit V8",
     "description": "Pursuit V8, with its precisely tuned all-wheel drive system and deep rumbling sound upon startup, you'll experience the pure appeal of mechanical engineering.",
     "stats": {
-      "influence": "Nissan GT-R",
       "top_speed_kmh": 180,
       "reverse_top_speed_kmh": 40,
       "acceleration": 7,
@@ -203,6 +237,12 @@
       "price": 4000000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "Nissan",
+      "model": "GT-R",
+      "description": "The Nissan GT-R (Gran Turismo-Racing; model code R35) is a sports car built by Japanese marque Nissan from 2007 to 2025. Featuring 2+2 seating and a front-mid-mounted engine driving all four wheels, it is also considered a grand tourer. Top Gear called it 'one of the most incredible cars of any kind ever built' for its exceptional performance and practicality at a relatively affordable price, and it succeeded the Nissan Skyline GT-R while winning accolades such as World Performance Car of the Year.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/nissan-gt-r.webp"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-pursuit-v8.png",
     "modifications_id": "regalia-pursuit-v8",
     "liveries_id": "regalia-pursuit-v8"
@@ -214,7 +254,6 @@
     "name": "Regalia - LaVelox",
     "description": "LaVelox, equipped with a hybrid power system, combining cutting-edge engines and the latest technological materials, redefining what it means to be a supercar.",
     "stats": {
-      "influence": "Ferrari LaFerrari",
       "top_speed_kmh": 197,
       "reverse_top_speed_kmh": 40,
       "acceleration": 8,
@@ -229,12 +268,17 @@
       "price": 10800000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "Ferrari",
+      "model": "LaFerrari",
+      "description": "The LaFerrari is a limited production mid-engine, mild hybrid sports car built by Italian automotive manufacturer Ferrari. Its name means \"The Ferrari\" in Italian, as it is intended to be the definitive Ferrari. It was unveiled at the 2013 Geneva Auto Show, with the coupé produced from 2013 to 2016 and the open-top Aperta from 2016 to 2018. As Ferrari's first full hybrid production car, it combines a 6.3-litre V12 engine with a KERS energy recovery system to produce 963 PS (950 hp), the highest power output of any Ferrari road car while decreasing fuel consumption by 40 per cent.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/ferrari-laferrari.jpg"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox.png",
     "gallery": [
       "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox-gallery-1.webp",
       "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox-gallery-2.jpg",
-      "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox-gallery-3.jpg",
-      "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox-gallery-4.jpg"
+      "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-lavelox-gallery-3.jpg"
     ],
     "modifications_id": "regalia-lavelox",
     "liveries_id": "regalia-lavelox"
@@ -246,7 +290,6 @@
     "name": "Regalia - Pendragon",
     "description": "Pendragon. Regalia's latest masterpiece for future exploration, forging new supercar legends with cutting-edge technology.",
     "stats": {
-      "influence": "McLaren Senna",
       "top_speed_kmh": 202,
       "reverse_top_speed_kmh": 40,
       "acceleration": 9,
@@ -261,6 +304,12 @@
       "price": 12000000,
       "currency": "Fons"
     },
+    "influence": {
+      "brand": "McLaren",
+      "model": "Senna",
+      "description": "The McLaren Senna is a limited-production, mid-engined sports car manufactured by McLaren Automotive, forming the third addition to the McLaren Ultimate Series alongside the F1 and the P1. Revealed online on December 10, 2017 and officially debuted at the 2018 Geneva Motor Show, it is named after Brazilian Formula One driver Ayrton Senna in honour of his three world championships and 35 Grand Prix victories with McLaren's F1 team between 1988 and 1993.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/mclaren-senna.jpg"
+    },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/regalia-pendragon.png",
     "modifications_id": "regalia-pendragon",
     "liveries_id": "regalia-pendragon"
@@ -272,7 +321,6 @@
     "name": "Porsche - 918 Spyder",
     "description": "Porsche 918 Spyder - sculpted for the future, engineered to perform. Built for those who never settle for ordinary.",
     "stats": {
-      "influence": "Porsche 918",
       "top_speed_kmh": 212,
       "reverse_top_speed_kmh": 40,
       "acceleration": 10,
@@ -284,6 +332,12 @@
       "durability": 18200,
       "drivetrain": "AWD",
       "gears": 5
+    },
+    "influence": {
+      "brand": "Porsche",
+      "model": "918 Spyder",
+      "description": "The Porsche 918 Spyder is a limited-production, mid-engine plug-in hybrid supercar manufactured by Porsche from September 2013 to June 2015. It pairs a naturally aspirated 4.6-litre V8 with two electric motors for a combined 875 horsepower, giving it a 0-62 mph time of 2.6 seconds and a top speed of 214 mph. It was Porsche's second plug-in hybrid model after the Panamera S E-Hybrid, and served as successor to the Carrera GT.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-918.jpg"
     },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-918-spyder.png",
     "modifications_id": "porsche-918-spyder",
