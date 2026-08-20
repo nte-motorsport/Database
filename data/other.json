@@ -44,5 +44,28 @@
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/k01.png",
     "modifications_id": "k01",
     "liveries_id": "k01"
+  },
+  {
+    "id": "terrax-sirocco",
+    "brand_id": null,
+    "model": "Terrax Sirocco",
+    "name": "Terrax Sirocco",
+    "description": "The vast coastline is your brand-new off-road playground. Take the wheel and conquer the dunes!",
+    "stats": {
+      "top_speed_kmh": 95,
+      "reverse_top_speed_kmh": 30,
+      "acceleration": 7,
+      "shift_speed": 10,
+      "suspension_height": 6,
+      "suspension_damper": 6,
+      "handbrake": 7,
+      "braking_force": 7,
+      "drivetrain": "AWD",
+      "gears": 1,
+      "price": 4000000,
+      "currency": "Fons"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/sirocco.png",
+    "modifications_id": "terrax-sirocco"
   }
 ]
