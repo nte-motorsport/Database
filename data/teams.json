@@ -1,7 +1,7 @@
 [
   {
     "id": "sunday-racing-team",
-    "name": "Sunday Racing Team",
+    "name": "Sunday",
     "description": "A loosely organized racing team whose members are mostly office workers who come together based on their shared interest in racing. They don't particularly care about rankings - what matters is enjoying the fun of driving.",
     "captain": "Ikeyama",
     "home_track_id": null,
@@ -104,7 +104,7 @@
   },
   {
     "id": "coastal-drift-racing-team",
-    "name": "Coastal Drift Racing Team",
+    "name": "Coastal Drift",
     "description": "A racing team formed by Captain Elle during her college years, who have all grown up to be office workers. The team was kept to this day as a social circle. The sisters regularly stay connected through racing, seeing it as part of their lives rather than caring about winning or losing.",
     "captain": "Elle",
     "home_track_id": "bridge-crossings-sightseers",
@@ -205,7 +205,7 @@
   },
   {
     "id": "full-throttle-racing-team",
-    "name": "Full Throttle Racing Team",
+    "name": "Full Throttle",
     "description": "This racing team is active throughout Hethereau, with most members being free of employment, allowing them time to practice on long-distance tracks. The team's finances are tight, often requiring them to scrape together resources just to barely organize a gathering.",
     "captain": "Grant",
     "home_track_id": "hethereau-track-1",
@@ -309,7 +309,7 @@
   },
   {
     "id": "meridian-racing-team",
-    "name": "Meridian Racing Team",
+    "name": "Meridian",
     "description": "A new generation racing team formed by Bai Yang, who admires the God Racer of Hethereau. The team trains hard with the goal of conquering the Reims Grand Prix. Though the members are still young on average, they've already achieved numerous victories.",
     "captain": "Bai Yang",
     "home_track_id": "whitetail-ridge-road",
@@ -410,7 +410,7 @@
   },
   {
     "id": "tempestas-racing-team",
-    "name": "Tempestas Racing Team",
+    "name": "Tempestas",
     "description": "A racing team composed of wealthy young people who treat street racing as a pastime. Cars serve as social calling cards, so members care greatly about their vehicles' appearance but don't particularly focus on functional modifications.",
     "captain": "Amory",
     "home_track_id": "new-herland-city-track",
@@ -515,7 +515,7 @@
   },
   {
     "id": "uncrowned-king-racing-team",
-    "name": "Uncrowned King Racing Team",
+    "name": "Uncrowned King",
     "description": "A racing team formed by retired racer Misha, with members who are all retired professional racers recognized by Misha. The team's original purpose was to provide help and support to more young people with racing dreams.",
     "captain": "Misha",
     "home_track_id": "new-herland-highway-track",
@@ -611,6 +611,425 @@
           "Win the Race",
           "Win by 50+ meters",
           "Win in under 141s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "night-raptor-racing-team",
+    "name": "Night Raptor",
+    "description": "A racing team made up of people who couldn't be further apart in personality: a retired underground idol, a band drummer, an office worker, a homemaker, a researcher, and a real estate developer. Brought together by their genuine love of racing, they give their all in every event they participate in.",
+    "captain": "Asuka",
+    "home_track_id": null,
+    "home_raw": "Horizon Tour Circuit",
+    "hours": "Daily, 12:00 to 0:00",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/night-raptor-racing-team-logo.png",
+    "members": [
+      {
+        "number": "1",
+        "name": "Eve",
+        "track_id": "horizon-tour-circuit-a",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-c2000",
+          "terrax-g3"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "2",
+        "name": "Majima",
+        "track_id": "horizon-tour-circuit-a",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-c2000",
+          "novus-st79"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "3",
+        "name": "Bart",
+        "track_id": "horizon-tour-circuit-b",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-enforcer"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "4",
+        "name": "Nana",
+        "track_id": "horizon-tour-circuit-b",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-enforcer",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "5",
+        "name": "Taku",
+        "track_id": "horizon-tour-circuit-c",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-enforcer",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "6",
+        "name": "Asuka",
+        "track_id": "horizon-tour-circuit-d",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-enforcer",
+          "regalia-griffin",
+          "regalia-pursuit-v8"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win in under 675s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chapter-nova-racing-team",
+    "name": "Chapter Nova",
+    "description": "Captain Kiryu was once a professional motorcyclist. Even after retiring, his love of competition never faded, so he decided to form a racing team. The first time he tried car racing instead of motorcycles, he fell in love completely. Most of the other team members share similar sentiments.",
+    "captain": "Kiryu",
+    "home_track_id": null,
+    "home_raw": "Wildlands Track",
+    "hours": "Daily, 08:00 to 15:00",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/chapter-nova-racing-team-logo.png",
+    "members": [
+      {
+        "number": "1",
+        "name": "Yuki",
+        "track_id": "wildlands-track-circuit-a",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-c2000"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "2",
+        "name": "Ben",
+        "track_id": "wildlands-track-circuit-a",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-c2000"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "3",
+        "name": "Haru",
+        "track_id": "wildlands-track-circuit-b",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-c2000",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "4",
+        "name": "Evan",
+        "track_id": "wildlands-track-circuit-b",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-enforcer",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "5",
+        "name": "Ryo",
+        "track_id": "wildlands-track-circuit-c",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-enforcer",
+          "regalia-griffin",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "6",
+        "name": "Kiryu",
+        "track_id": "wildlands-track-circuit-c",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-enforcer",
+          "regalia-griffin",
+          "regalia-pursuit-v8"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win in under 360s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "first-sense-racing-team",
+    "name": "First Sense",
+    "description": "They say Kurokawa, captain of First Sense, was exceptionally gifted in his youth. Everyone expected him to become the future \"God Racer of Hethereau.\" But Kurokawa was such a perfectionist that he consistently blamed himself for his teammates' performance or the races themselves. He found that these results never quite matched what was expected of him. Disheartened, he sat in his family's rice fields, basking in the aroma of rice grains, and finally realized he had gone down the wrong path. Later, he formed an amateur racing team in search of those who also sought genuine fun from racing.",
+    "captain": "Kurokawa",
+    "home_track_id": null,
+    "home_raw": "Harvest Track Circuit",
+    "hours": "Daily, 12:00 to 0:00",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/first-sense-racing-team-logo.png",
+    "members": [
+      {
+        "number": "1",
+        "name": "Anzu",
+        "track_id": "harvest-track-circuit-a",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "terrax-g3"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "2",
+        "name": "Komachi",
+        "track_id": "harvest-track-circuit-a",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "terrax-g3",
+          "novus-c2000"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "3",
+        "name": "Kenta",
+        "track_id": "harvest-track-circuit-b",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "terrax-g3",
+          "novus-st79",
+          "novus-c2000"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "4",
+        "name": "Makoto",
+        "track_id": "harvest-track-circuit-b",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-c2000",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "5",
+        "name": "Nico",
+        "track_id": "harvest-track-circuit-c",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-enforcer",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "6",
+        "name": "Kurokawa",
+        "track_id": "harvest-track-circuit-c",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-enforcer",
+          "regalia-griffin",
+          "regalia-pursuit-v8"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win in under 320s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "silver-crown-racing-team",
+    "name": "Silver Crown",
+    "description": "Miura came close to becoming a professional driver. Born into a wealthy family, he trained from a young age, yet luck never seemed to be on his side in competitions. He eventually inherited the family business and gradually let go of his racing dream. Later... he met several people with stories much like his own, and together they formed a racing team.",
+    "captain": "Miura",
+    "home_track_id": null,
+    "home_raw": "Urban Track Circuit",
+    "hours": "Daily, 16:00 to 4:00",
+    "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/silver-crown-racing-team-logo.png",
+    "members": [
+      {
+        "number": "1",
+        "name": "Shiori",
+        "track_id": "urban-track-circuit-a",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "2",
+        "name": "Renji",
+        "track_id": "urban-track-circuit-a",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-st79",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "3",
+        "name": "Tabi",
+        "track_id": "urban-track-circuit-b",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-st79",
+          "novus-enforcer",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "4",
+        "name": "Shiyu",
+        "track_id": "urban-track-circuit-b",
+        "track_variant": "reverse",
+        "vehicle_ids": [
+          "novus-enforcer",
+          "regalia-griffin",
+          "regalia-griffin"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "5",
+        "name": "Hiiragi",
+        "track_id": "urban-track-circuit-a",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "novus-enforcer",
+          "regalia-griffin",
+          "regalia-pursuit-v8"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win by 100+ meters"
+        ]
+      },
+      {
+        "number": "6",
+        "name": "Miura",
+        "track_id": "urban-track-circuit-a",
+        "track_variant": "normal",
+        "vehicle_ids": [
+          "regalia-griffin",
+          "regalia-pursuit-v8",
+          "regalia-lavelox"
+        ],
+        "objectives": [
+          "Win the Race",
+          "Win by 50+ meters",
+          "Win in under 200s"
         ]
       }
     ]
