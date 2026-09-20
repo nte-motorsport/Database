@@ -27,7 +27,7 @@
     {
         "id": "chaos",
         "name": "Chaos",
-        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/chaos.webp"
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/chaos.png"
     },
     {
         "id": "chiz",
@@ -65,6 +65,11 @@
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/hotori.png"
     },
     {
+        "id": "iroi",
+        "name": "Iroi",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/iroi.png"
+    },
+    {
         "id": "jiuyuan",
         "name": "Jiuyuan",
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/jiuyuan.png"
@@ -73,6 +78,11 @@
         "id": "lacrimosa",
         "name": "Lacrimosa",
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/lacrimosa.png"
+    },
+    {
+        "id": "linko",
+        "name": "Linko",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/linko.png"
     },
     {
         "id": "mint",
@@ -90,8 +100,18 @@
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/sakiri.png"
     },
     {
+        "id": "shinku",
+        "name": "Shinku",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/shinku.png"
+    },
+    {
         "id": "skia",
         "name": "Skia",
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/skia.png"
+    },
+    {
+        "id": "zankou",
+        "name": "Zankou",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/zankou.png"
     }
 ]
