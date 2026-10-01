@@ -15,6 +15,11 @@
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/adler.png"
     },
     {
+        "id": "akane",
+        "name": "Akane",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/akane.png"
+    },
+    {
         "id": "aurelia",
         "name": "Aurelia",
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/aurelia.png"
@@ -23,6 +28,11 @@
         "id": "baicang",
         "name": "Baicang",
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/baicang.png"
+    },
+    {
+        "id":"blackbird",
+        "name": "Blackbird",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/blackbird.png"
     },
     {
         "id": "chaos",
