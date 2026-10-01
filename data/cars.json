@@ -248,6 +248,67 @@
     "liveries_id": "regalia-pursuit-v8"
   },
   {
+    "id": "porsche-911-turbo",
+    "brand_id": "porsche",
+    "model": "911 Turbo",
+    "name": "Porsche - 911 Turbo",
+    "description": "Porsche 911 Turbo (930). Making tomorrow history.",
+    "stats": {
+      "top_speed_kmh": 188,
+      "reverse_top_speed_kmh": 40,
+      "acceleration": 7,
+      "shift_speed": 6,
+      "suspension_height": 4,
+      "suspension_damper": 6,
+      "handbrake": 6,
+      "braking_force": 6,
+      "durability": 16750,
+      "drivetrain": "RWD",
+      "gears": 4
+    },
+    "influence": {
+      "brand": "Porsche",
+      "model": "911",
+      "description": "The Porsche 911 is a rear-engined sports car manufactured by Porsche. It is one of the most iconic and successful sports cars in the world.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-911.png"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-911-turbo.png",
+    "modifications_id": "porsche-911-turbo",
+    "liveries_id": "porsche-911-turbo"
+  },
+  {
+    "id": "porsche-taycan-turbo-gt",
+    "brand_id": "porsche",
+    "model": "Taycan Turbo GT",
+    "name": "Porsche - Taycan Turbo GT",
+    "description": "Taycan Turbo GT with Weissach Package. Powered by Future. Born to conquer.",
+    "stats": {
+      "top_speed_kmh": 193,
+      "reverse_top_speed_kmh": 40,
+      "attack_top_speed_kmh": 263,
+      "acceleration": 9,
+      "attack_time_s": 3,
+      "attack_reload_time_s": 10,
+      "shift_speed": 10,
+      "suspension_height": 4,
+      "suspension_damper": 8,
+      "handbrake": 3,
+      "braking_force": 6,
+      "durability": 20500,
+      "drivetrain": "AWD",
+      "gears": 1
+    },
+    "influence": {
+      "brand": "Porsche",
+      "model": "Taycan",
+      "description": "The Porsche Taycan is a luxury electric sports car produced by Porsche. It is the first all-electric vehicle in the Porsche lineup and is designed to be a high-performance luxury sports car.",
+      "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-taycan.png"
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-taycan-turbo-gt.png",
+    "modifications_id": "porsche-taycan-turbo-gt",
+    "liveries_id": "porsche-taycan-turbo-gt"
+  },
+  {
     "id": "regalia-lavelox",
     "brand_id": "regalia",
     "model": "LaVelox",
