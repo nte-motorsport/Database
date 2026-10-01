@@ -1461,5 +1461,223 @@
         ]
       }
     ]
+  },
+  {
+    "id": "porsche-911-turbo",
+    "categories": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "id": "porsche-911-turbo-livery-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "id": "porsche-911-turbo-livery-salzburg-livery",
+            "name": "Salzburg - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-livery-salzburg.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "id": "porsche-911-turbo-paint-audrain-green-metallic",
+            "name": "Audrain Green Metallic",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-audrain-green-metallic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-silver-metallic",
+            "name": "Silver Metallic",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-silver-metallic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-basalt-black-metallic",
+            "name": "Basalt Black Metallic",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-basalt-black-metallic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-grand-prix-white",
+            "name": "Grand Prix White",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-grand-prix-white.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-speed-yellow",
+            "name": "Speed Yellow",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-speed-yellow.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-guards-red",
+            "name": "Guards Red",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-guards-red.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-nordic-gold-metallic",
+            "name": "Nordic Gold Metallic",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-nordic-gold-metallic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-minerva-blue-metallic",
+            "name": "Minerva Blue Metallic",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-minerva-blue-metallic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-viola-purple-metallic",
+            "name": "Viola Purple Metallic",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-viola-purple-metallic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-frozen-berry-metallic",
+            "name": "Frozen Berry Metallic",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-frozen-berry-metallic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-oak-green-metallic",
+            "name": "Oak Green Metallic",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-oak-green-metallic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-paint-amethyst-metallic",
+            "name": "Amethyst Metallic",
+            "price": 297000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-amethyst-metallic.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "porsche-taycan-turbo-gt",
+    "categories": [
+      {
+        "category": "Livery",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-livery-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-livery-salzburg-livery",
+            "name": "Salzburg - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-livery-salzburg.webp"
+          }
+        ]
+      },
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-paint-purple-sky-metallic",
+            "name": "Purple Sky Metallic",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-purple-sky-metallic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-silver-metallic",
+            "name": "Silver Metallic",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-silver-metallic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-basalt-black-metallic",
+            "name": "Basalt Black Metallic",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-basalt-black-metallic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-pure-white",
+            "name": "Pure White",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-pure-white.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-speed-yellow",
+            "name": "Speed Yellow",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-speed-yellow.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-club-blue",
+            "name": "Club Blue",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-club-blue.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-rose-red",
+            "name": "Rose Red",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-rose-red.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-shade-green-metallic",
+            "name": "Shade Green Metallic",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-shade-green-metallic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-914-olympic-blue",
+            "name": "914 Olympic Blue",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-914-olympic-blue.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-frozen-berry-metallic",
+            "name": "Frozen Berry Metallic",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-frozen-berry-metallic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-green-yellow",
+            "name": "Green Yellow",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-green-yellow.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-paint-loretta-purple",
+            "name": "Loretta Purple",
+            "price": 759000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-taycan-turbo-gt-paint-loretta-purple.webp"
+          }
+        ]
+      }
+    ]
   }
 ]

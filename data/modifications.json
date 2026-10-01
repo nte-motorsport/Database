@@ -2695,5 +2695,350 @@
         ]
       }
     ]
+  },
+  {
+    "id": "porsche-911-turbo",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "porsche-911-turbo-engine-engine-i",
+            "name": "Engine I",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 186,
+              "acceleration": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-engine-engine-ii",
+            "name": "Engine II",
+            "price": 1000000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 192,
+              "acceleration": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "porsche-911-turbo-gearbox-transmission-i",
+            "name": "Transmission I",
+            "default": true,
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-gearbox-transmission-ii",
+            "name": "Transmission II",
+            "price": 540000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-gearbox-transmission-iii",
+            "name": "Transmission III",
+            "price": 1350000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "porsche-911-turbo-suspension-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-suspension-suspension-ii",
+            "name": "Suspension II",
+            "price": 900000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 5,
+              "suspension_damper": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-suspension-suspension-iii",
+            "name": "Suspension III",
+            "price": 900000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "porsche-911-turbo-brakes-brake-i",
+            "name": "Brake I",
+            "default": true,
+            "stats": {
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-brakes-brake-ii",
+            "name": "Brake II",
+            "price": 675000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "porsche-911-turbo-tires-tires-default",
+            "name": "Tires - Default",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-tires-tires-track",
+            "name": "Tires - Track",
+            "price": 150000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "porsche-911-turbo-differential-standard-differential",
+            "name": "Standard Differential",
+            "default": true,
+            "stats": {
+              "handbrake": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-differential-enhanced-differential",
+            "name": "Enhanced Differential",
+            "price": 1125000,
+            "currency": "Fons",
+            "stats": {
+              "handbrake": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-differential-enhanced-differential-plus",
+            "name": "Enhanced Differential +",
+            "price": 1125000,
+            "currency": "Fons",
+            "stats": {
+              "handbrake": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "porsche-911-turbo-differential-enhanced-differential-plus-plus",
+            "name": "Enhanced Differential ++",
+            "price": 1125000,
+            "currency": "Fons",
+            "stats": {
+              "handbrake": 9
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "porsche-911-turbo-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "porsche-taycan-turbo-gt",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-engine-engine-i",
+            "name": "Engine I",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 193,
+              "acceleration": 9,
+              "shift_speed": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-engine-engine-ii",
+            "name": "Engine II",
+            "price": 2640000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 199,
+              "acceleration": 10,
+              "shift_speed": 10
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Suspension",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-suspension-suspension-i",
+            "name": "Suspension I",
+            "default": true,
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-suspension-suspension-ii",
+            "name": "Suspension II",
+            "price": 2300000,
+            "currency": "Fons",
+            "stats": {
+              "suspension_height": 4,
+              "suspension_damper": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/suspension-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-brakes-brake-i",
+            "name": "Brake I",
+            "default": true,
+            "stats": {
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-brakes-brake-ii",
+            "name": "Brake II",
+            "price": 1725000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-tires-tires-default",
+            "name": "Tires - Default",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-tires-tires-track",
+            "name": "Tires - Track",
+            "price": 340000,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Differential",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-differential-standard-differential",
+            "name": "Standard Differential",
+            "default": true,
+            "stats": {
+              "handbrake": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          },
+          {
+            "id": "porsche-taycan-turbo-gt-differential-enhanced-differential",
+            "name": "Enhanced Differential",
+            "price": 2875000,
+            "currency": "Fons",
+            "stats": {
+              "handbrake": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/differential-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Spoiler",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-spoiler-stock",
+            "name": "Stock",
+            "default": true
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "porsche-taycan-turbo-gt-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/stock-part-01.webp"
+          }
+        ]
+      }
+    ]
   }
 ]
