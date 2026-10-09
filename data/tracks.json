@@ -125,6 +125,8 @@
     "location": "Hethereau",
     "length_km": 2.8,
     "turns": 0,
+    "laps": 2,
+    "reverse_laps": 2,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/wildlands-track-circuit-a.png"
   },
   {
@@ -133,6 +135,8 @@
     "location": "Hethereau",
     "length_km": 2.4,
     "turns": 0,
+    "laps": 2,
+    "reverse_laps": 2,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/wildlands-track-circuit-b.png"
   },
   {
@@ -141,6 +145,8 @@
     "location": "Hethereau",
     "length_km": 3.1,
     "turns": 0,
+    "laps": 3,
+    "reverse_laps": 2,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/wildlands-track-circuit-c.png"
   },
   {
@@ -149,6 +155,8 @@
     "location": "Hethereau",
     "length_km": 1.6,
     "turns": 0,
+    "laps": 3,
+    "reverse_laps": 3,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/harvest-track-circuit-a.png"
   },
   {
@@ -157,6 +165,8 @@
     "location": "Hethereau",
     "length_km": 2.2,
     "turns": 0,
+    "laps": 2,
+    "reverse_laps": 2,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/harvest-track-circuit-b.png"
   },
   {
@@ -165,6 +175,8 @@
     "location": "Hethereau",
     "length_km": 3.5,
     "turns": 0,
+    "laps": 2,
+    "reverse_laps": 3,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/harvest-track-circuit-c.png"
   },
   {
@@ -173,6 +185,8 @@
     "location": "Hethereau",
     "length_km": 1.5,
     "turns": 0,
+    "laps": 3,
+    "reverse_laps": 3,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/urban-track-circuit-a.png"
   },
   {
@@ -181,6 +195,8 @@
     "location": "Hethereau",
     "length_km": 2.7,
     "turns": 0,
+    "laps": 2,
+    "reverse_laps": 2,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/urban-track-circuit-b.png"
   }
 ]
