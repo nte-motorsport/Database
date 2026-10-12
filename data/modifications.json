@@ -2697,6 +2697,31 @@
     ]
   },
   {
+    "id": "terrax-sirocco",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "terrax-sirocco-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 95,
+              "acceleration": 7,
+              "shift_speed": 10,
+              "suspension_height": 6,
+              "suspension_damper": 6,
+              "handbrake": 7,
+              "braking_force": 7
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "porsche-911-turbo",
     "categories": [
       {

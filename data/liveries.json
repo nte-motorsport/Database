@@ -110,6 +110,11 @@
             "id": "novus-b100-livery-three-s-company-livery",
             "name": "Three's Company - Livery",
             "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-b100-livery-three-s-company.webp"
+          },
+          {
+            "id": "novus-b100-livery-puka-on-tour-livery",
+            "name": "Puka on Tour - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-b100-livery-puka-on-tour.webp"
           }
         ]
       },
@@ -1055,6 +1060,22 @@
     "id": "porsche-918-spyder",
     "categories": [
       {
+        "category": "Livery",
+        "items": [
+          {
+            "id": "porsche-918-spyder-livery-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
+          },
+          {
+            "id": "porsche-918-spyder-livery-salzburg-livery",
+            "name": "Salzburg - Livery",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-918-spyder-livery-salzburg.webp"
+          }
+        ]
+      },
+      {
         "category": "Paint",
         "items": [
           {
@@ -1427,6 +1448,71 @@
     ]
   },
   {
+    "id": "regalia-draco",
+    "categories": [
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "id": "regalia-draco-paint-painty-color-code-01",
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-22.webp"
+          },
+          {
+            "id": "regalia-draco-paint-painty-color-code-02",
+            "name": "Painty - Color Code 02",
+            "price": 142500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-18.webp"
+          },
+          {
+            "id": "regalia-draco-paint-painty-color-code-03",
+            "name": "Painty - Color Code 03",
+            "price": 142500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-24.webp"
+          },
+          {
+            "id": "regalia-draco-paint-painty-color-code-04",
+            "name": "Painty - Color Code 04",
+            "price": 142500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-21.webp"
+          },
+          {
+            "id": "regalia-draco-paint-painty-color-code-05",
+            "name": "Painty - Color Code 05",
+            "price": 142500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-07.webp"
+          },
+          {
+            "id": "regalia-draco-paint-painty-color-code-06",
+            "name": "Painty - Color Code 06",
+            "price": 142500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/regalia-draco-paint-painty-color-code-06.webp"
+          },
+          {
+            "id": "regalia-draco-paint-painty-color-code-07",
+            "name": "Painty - Color Code 07",
+            "price": 142500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/regalia-draco-paint-painty-color-code-07.webp"
+          },
+          {
+            "id": "regalia-draco-paint-painty-color-code-08",
+            "name": "Painty - Color Code 08",
+            "price": 142500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-20.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "k01",
     "categories": [
       {
@@ -1457,6 +1543,36 @@
             "id": "k01-livery-crimson-alert-livery",
             "name": "Crimson Alert - Livery",
             "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/k01-livery-crimson-alert.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "terrax-sirocco",
+    "categories": [
+      {
+        "category": "Paint",
+        "items": [
+          {
+            "id": "terrax-sirocco-paint-painty-color-code-01",
+            "name": "Painty - Color Code 01",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-sirocco-paint-painty-color-code-01.webp"
+          },
+          {
+            "id": "terrax-sirocco-paint-painty-color-code-02",
+            "name": "Painty - Color Code 02",
+            "price": 37500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-28.webp"
+          },
+          {
+            "id": "terrax-sirocco-paint-painty-color-code-03",
+            "name": "Painty - Color Code 03",
+            "price": 37500,
+            "currency": "Fons",
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-21.webp"
           }
         ]
       }
