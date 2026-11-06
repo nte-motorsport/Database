@@ -1,6 +1,7 @@
 [
   {
     "id": "tomorrow-rush",
+    "game_id": "vehicle030",
     "brand_id": null,
     "model": "Tomorrow Rush",
     "name": "Tomorrow Rush",
@@ -21,6 +22,7 @@
   },
   {
     "id": "k01",
+    "game_id": "vehicle023",
     "brand_id": null,
     "model": "K01",
     "name": "K01",
@@ -47,6 +49,7 @@
   },
   {
     "id": "terrax-sirocco",
+    "game_id": "vehicle043",
     "brand_id": "terrax",
     "model": "Sirocco",
     "name": "Terrax - Sirocco",

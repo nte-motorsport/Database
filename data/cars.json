@@ -1,6 +1,7 @@
 [
   {
     "id": "novus-c2000",
+    "game_id": "vehicle007",
     "brand_id": "novus",
     "model": "C2000",
     "name": "Novus - C2000",
@@ -32,6 +33,7 @@
   },
   {
     "id": "novus-b100",
+    "game_id": "vehicle006",
     "brand_id": "novus",
     "model": "B100",
     "name": "Novus - B100",
@@ -63,6 +65,7 @@
   },
   {
     "id": "terrax-g3",
+    "game_id": "vehicle003",
     "brand_id": "terrax",
     "model": "G3",
     "name": "TerraX - G3",
@@ -94,6 +97,7 @@
   },
   {
     "id": "novus-m1000",
+    "game_id": "vehicle008",
     "brand_id": "novus",
     "model": "M1000",
     "name": "Novus - M1000",
@@ -125,6 +129,7 @@
   },
   {
     "id": "novus-st79",
+    "game_id": "vehicle018",
     "brand_id": "novus",
     "model": "ST79",
     "name": "Novus - ST79",
@@ -156,6 +161,7 @@
   },
   {
     "id": "regalia-griffin",
+    "game_id": "vehicle002",
     "brand_id": "regalia",
     "model": "Griffin",
     "name": "Regalia - Griffin",
@@ -187,6 +193,7 @@
   },
   {
     "id": "novus-enforcer",
+    "game_id": "vehicle020",
     "brand_id": "novus",
     "model": "Enforcer",
     "name": "Novus - Enforcer",
@@ -218,6 +225,7 @@
   },
   {
     "id": "regalia-pursuit-v8",
+    "game_id": "vehicle017",
     "brand_id": "regalia",
     "model": "Pursuit V8",
     "name": "Regalia - Pursuit V8",
@@ -249,6 +257,7 @@
   },
   {
     "id": "porsche-911-turbo",
+    "game_id": "vehicle037",
     "brand_id": "porsche",
     "model": "911 Turbo",
     "name": "Porsche - 911 Turbo",
@@ -278,6 +287,7 @@
   },
   {
     "id": "porsche-taycan-turbo-gt",
+    "game_id": "vehicle038",
     "brand_id": "porsche",
     "model": "Taycan Turbo GT",
     "name": "Porsche - Taycan Turbo GT",
@@ -310,6 +320,7 @@
   },
   {
     "id": "regalia-lavelox",
+    "game_id": "vehicle016",
     "brand_id": "regalia",
     "model": "LaVelox",
     "name": "Regalia - LaVelox",
@@ -346,6 +357,7 @@
   },
   {
     "id": "regalia-pendragon",
+    "game_id": "vehicle021",
     "brand_id": "regalia",
     "model": "Pendragon",
     "name": "Regalia - Pendragon",
@@ -377,6 +389,7 @@
   },
   {
     "id": "porsche-918-spyder",
+    "game_id": "vehicle026",
     "brand_id": "porsche",
     "model": "918 Spyder",
     "name": "Porsche - 918 Spyder",

@@ -1,6 +1,7 @@
 [
   {
     "id": "rover-a1",
+    "game_id": "vehicle015",
     "brand_id": null,
     "model": "Rover A1",
     "name": "Rover A1",
@@ -25,6 +26,7 @@
   },
   {
     "id": "regalia-novis-st-x-950",
+    "game_id": "vehicle010",
     "brand_id": "regalia",
     "model": "Novis ST-X 950",
     "name": "Regalia - Novis ST-X 950",
@@ -50,6 +52,7 @@
   },
   {
     "id": "regalia-blizzard-v4",
+    "game_id": "vehicle024",
     "brand_id": "regalia",
     "model": "Blizzard-V4",
     "name": "Regalia - Blizzard-V4",
@@ -75,6 +78,7 @@
   },
   {
     "id": "regalia-draco",
+    "game_id": "vehicle039",
     "brand_id": "regalia",
     "model": "Draco",
     "name": "Regalia - Draco",
