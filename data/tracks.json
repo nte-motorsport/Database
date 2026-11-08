@@ -1,5 +1,27 @@
 [
   {
+    "id": "intercity-tour",
+    "game_id": [
+      "DLC_RT_C1"
+    ],
+    "name": "Intercity Tour",
+    "location": "Hethereau",
+    "length_km": 2.3,
+    "turns": 13,
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/intercity-tour.png"
+  },
+  {
+    "id": "sunset-neon",
+    "game_id": [
+      "DLC_RT_C2"
+    ],
+    "name": "Sunset Neon",
+    "location": "Hethereau",
+    "length_km": 2.3,
+    "turns": 15,
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/sunset-neon.png"
+  },
+  {
     "id": "unheard-shores-circuit-a",
     "game_id": [
       "Track_ZX_Quest2",
