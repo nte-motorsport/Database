@@ -6,7 +6,7 @@
     ],
     "name": "Intercity Tour",
     "location": "Hethereau",
-    "length_km": 2.3,
+    "length_km": 6.8,
     "turns": 13,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/intercity-tour.png"
   },
@@ -17,7 +17,7 @@
     ],
     "name": "Sunset Neon",
     "location": "Hethereau",
-    "length_km": 2.3,
+    "length_km": 6.6,
     "turns": 15,
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/tracks/sunset-neon.png"
   },
