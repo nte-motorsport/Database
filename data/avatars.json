@@ -55,6 +55,16 @@
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/edgar.png"
     },
     {
+        "id": "elyms",
+        "name": "Elyms",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/elyms.png"
+    },
+    {
+        "id": "exe",
+        "name": "Exe",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/exe.png"
+    },
+    {
         "id": "fadia",
         "name": "Fadia",
         "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/avatars/fadia.png"
