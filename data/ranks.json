@@ -1,0 +1,104 @@
+[
+    {
+        "id": "rookie-4",
+        "name": "Rookie Driver IV",
+        "points": 0,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/rookie.png"
+    },
+    {
+        "id": "rookie-3",
+        "name": "Rookie Driver III",
+        "points": 1000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/rookie.png"
+    },
+    {
+        "id": "rookie-2",
+        "name": "Rookie Driver II",
+        "points": 2000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/rookie.png"
+    },
+    {
+        "id": "rookie-1",
+        "name": "Rookie Driver I",
+        "points": 3000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/rookie.png"
+    },
+    {
+        "id": "amateur-4",
+        "name": "Amateur Driver IV",
+        "points": 4000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/amateur.png"
+    },
+    {
+        "id": "amateur-3",
+        "name": "Amateur Driver III",
+        "points": 5000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/amateur.png"
+    },
+    {
+        "id": "amateur-2",
+        "name": "Amateur Driver II",
+        "points": 6000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/amateur.png"
+    },
+    {
+        "id": "amateur-1",
+        "name": "Amateur Driver I",
+        "points": 7000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/amateur.png"
+    },
+    {
+        "id": "pro-4",
+        "name": "Pro Driver IV",
+        "points": 8000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/pro.png"
+    },
+    {
+        "id": "pro-3",
+        "name": "Pro Driver III",
+        "points": 9000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/pro.png"
+    },
+    {
+        "id": "pro-2",
+        "name": "Pro Driver II",
+        "points": 10000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/pro.png"
+    },
+    {
+        "id": "pro-1",
+        "name": "Pro Driver I",
+        "points": 11000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/pro.png"
+    },
+    {
+        "id": "legend-4",
+        "name": "Legendary Driver IV",
+        "points": 12000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/legend.png"
+    },
+    {
+        "id": "legend-3",
+        "name": "Legendary Driver III",
+        "points": 13000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/legend.png"
+    },
+    {
+        "id": "legend-2",
+        "name": "Legendary Driver II",
+        "points": 14000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/legend.png"
+    },
+    {
+        "id": "legend-1",
+        "name": "Legendary Driver I",
+        "points": 15000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/legend.png"
+    },
+    {
+        "id": "ace",
+        "name": "Ace Driver",
+        "points": 16000,
+        "logo": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/ranks/ace.png"
+    }
+]
