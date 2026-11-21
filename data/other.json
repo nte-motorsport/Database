@@ -90,9 +90,7 @@
       "braking_force": 6,
       "durability": null,
       "drivetrain": null,
-      "gears": null,
-      "price": null,
-      "currency": null
+      "gears": null
     },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/iron-ogre.png",
     "modifications_id": "terrax-iron-ogre",
@@ -116,9 +114,7 @@
       "braking_force": 8,
       "durability": null,
       "drivetrain": null,
-      "gears": null,
-      "price": null,
-      "currency": null
+      "gears": null
     },
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/prototype-land-overlord-001.png",
     "modifications_id": "prototype-land-overlord-001"

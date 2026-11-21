@@ -577,9 +577,7 @@
       "braking_force": 4,
       "durability": 17200,
       "drivetrain": "AWD",
-      "gears": 4,
-      "price": null,
-      "currency": null
+      "gears": 4
     },
     "influence": {
       "brand": null,
@@ -609,9 +607,7 @@
       "braking_force": 4,
       "durability": null,
       "drivetrain": "AWD",
-      "gears": 4,
-      "price": null,
-      "currency": null
+      "gears": 4
     },
     "influence": {
       "brand": null,
