@@ -1806,12 +1806,12 @@
             "id": "novus-a001-livery-default",
             "name": "Default",
             "default": true,
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
           },
           {
             "id": "novus-a001-livery-friend-rescue-livery",
             "name": "+Friend & Rescue+ - Livery",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/novus-a001-livery-friend-rescue.webp"
           }
         ]
       }
@@ -1827,63 +1827,63 @@
             "id": "terrax-iron-ogre-livery-stock",
             "name": "Stock",
             "default": true,
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/livery-generic-02.webp"
           },
           {
             "id": "terrax-iron-ogre-livery-ocean-shimmer",
             "name": "Ocean Shimmer",
             "price": 420000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-iron-ogre-livery-ocean-shimmer.webp"
           },
           {
             "id": "terrax-iron-ogre-livery-jungle-shadows",
             "name": "Jungle Shadows",
             "price": 420000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-iron-ogre-livery-jungle-shadows.webp"
           },
           {
             "id": "terrax-iron-ogre-livery-frostbound-moss",
             "name": "Frostbound Moss",
             "price": 420000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-iron-ogre-livery-frostbound-moss.webp"
           },
           {
             "id": "terrax-iron-ogre-livery-desert-dust",
             "name": "Desert Dust",
             "price": 420000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-iron-ogre-livery-desert-dust.webp"
           },
           {
             "id": "terrax-iron-ogre-livery-ocean-swell",
             "name": "Ocean Swell",
             "price": 420000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-iron-ogre-livery-ocean-swell.webp"
           },
           {
             "id": "terrax-iron-ogre-livery-jungle-mist",
             "name": "Jungle Mist",
             "price": 420000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-iron-ogre-livery-jungle-mist.webp"
           },
           {
             "id": "terrax-iron-ogre-livery-frostwind",
             "name": "Frostwind",
             "price": 420000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-iron-ogre-livery-frostwind.webp"
           },
           {
             "id": "terrax-iron-ogre-livery-sandstorm",
             "name": "Sandstorm",
             "price": 420000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/terrax-iron-ogre-livery-sandstorm.webp"
           }
         ]
       },
@@ -1894,28 +1894,28 @@
             "id": "terrax-iron-ogre-paint-painty-color-code-01",
             "name": "Painty - Color Code 01",
             "default": true,
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/paint-generic-22.webp"
           },
           {
             "id": "terrax-iron-ogre-paint-painty-color-code-02",
             "name": "Painty - Color Code 02",
             "price": 350000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-nordic-gold-metallic.webp"
           },
           {
             "id": "terrax-iron-ogre-paint-painty-color-code-03",
             "name": "Painty - Color Code 03",
             "price": 350000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-grand-prix-white.webp"
           },
           {
             "id": "terrax-iron-ogre-paint-painty-color-code-04",
             "name": "Painty - Color Code 04",
             "price": 350000,
             "currency": "Fons",
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/liveries/porsche-911-turbo-paint-oak-green-metallic.webp"
           }
         ]
       }

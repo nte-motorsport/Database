@@ -3150,7 +3150,7 @@
             "id": "novus-a001-wheels-stock",
             "name": "Stock",
             "default": true,
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels.webp"
           }
         ]
       }
@@ -3240,7 +3240,7 @@
             "id": "novus-e001-wheels-stock",
             "name": "Stock",
             "default": true,
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels.webp"
           }
         ]
       }
@@ -3320,7 +3320,7 @@
             "id": "novus-c001-wheels-stock",
             "name": "Stock",
             "default": true,
-            "icon": null
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/terrax-g3-wheels.webp"
           }
         ]
       }
