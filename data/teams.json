@@ -12,6 +12,7 @@
       {
         "number": "1",
         "name": "Sakamoto",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/sakamoto.png",
         "track_id": "unheard-shores-circuit-a",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -26,6 +27,7 @@
       {
         "number": "2",
         "name": "Shouji",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/shouji.png",
         "track_id": "unheard-shores-circuit-a",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -41,6 +43,7 @@
       {
         "number": "3",
         "name": "Itou",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/itou.png",
         "track_id": "unheard-shores-circuit-b",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -57,6 +60,7 @@
       {
         "number": "4",
         "name": "Takeuchi",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/takeuchi.png",
         "track_id": "unheard-shores-circuit-b",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -72,6 +76,7 @@
       {
         "number": "5",
         "name": "Kyoujou",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/kyoujou.png",
         "track_id": "unheard-shores-circuit-a",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -88,6 +93,7 @@
       {
         "number": "6",
         "name": "Ikeyama",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/ikeyama.png",
         "track_id": "unheard-shores-circuit-b",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -115,6 +121,7 @@
       {
         "number": "1",
         "name": "Monica",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/monica.png",
         "track_id": "bridge-crossings-sightseers",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -129,6 +136,7 @@
       {
         "number": "2",
         "name": "Annie",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/annie.png",
         "track_id": "davidia-crane-path-track",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -143,6 +151,7 @@
       {
         "number": "3",
         "name": "Valentina",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/valentina.png",
         "track_id": "bridge-crossings-circuit",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -158,6 +167,7 @@
       {
         "number": "4",
         "name": "Vivian",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/vivian.png",
         "track_id": "bridge-crossings-sightseers",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -173,6 +183,7 @@
       {
         "number": "5",
         "name": "Elle",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/elle.png",
         "track_id": "davidia-crane-path-track",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -188,6 +199,7 @@
       {
         "number": "6",
         "name": "Attila",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/attila.png",
         "track_id": "bridge-crossings-circuit",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -216,6 +228,7 @@
       {
         "number": "1",
         "name": "Meryl",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/meryl.png",
         "track_id": "hethereau-track-1",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -230,6 +243,7 @@
       {
         "number": "2",
         "name": "Helen",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/helen.png",
         "track_id": "hethereau-track-2",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -245,6 +259,7 @@
       {
         "number": "3",
         "name": "Rand",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/rand.png",
         "track_id": "hethereau-track-1",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -260,6 +275,7 @@
       {
         "number": "4",
         "name": "Conseil",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/conseil.png",
         "track_id": "hethereau-track-1",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -276,6 +292,7 @@
       {
         "number": "5",
         "name": "Pierre",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/pierre.png",
         "track_id": "hethereau-track-2",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -292,6 +309,7 @@
       {
         "number": "6",
         "name": "Grant",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/grant.png",
         "track_id": "hethereau-track-2",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -320,6 +338,7 @@
       {
         "number": "1",
         "name": "Akiba",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/akiba.png",
         "track_id": "caltrop-lake-circuit",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -335,6 +354,7 @@
       {
         "number": "2",
         "name": "Hanatsuya",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/hanatsuya.png",
         "track_id": "caltrop-lake-circuit",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -350,6 +370,7 @@
       {
         "number": "3",
         "name": "Tomarikai",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/tomarikai.png",
         "track_id": "whitetail-ridge-road",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -365,6 +386,7 @@
       {
         "number": "4",
         "name": "Tomarigen",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/tomarigen.png",
         "track_id": "whitetail-ridge-road",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -378,7 +400,8 @@
       },
       {
         "number": "5",
-        "name": "Matsuyma",
+        "name": "Matsuyama",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/matsuyama.png",
         "track_id": "whitetail-ridge-road",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -394,6 +417,7 @@
       {
         "number": "6",
         "name": "Bai Yang",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/bai-yang.png",
         "track_id": "whitetail-ridge-road",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -421,6 +445,7 @@
       {
         "number": "1",
         "name": "Tommy",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/tommy.png",
         "track_id": "new-herland-city-track",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -435,6 +460,7 @@
       {
         "number": "2",
         "name": "Selda",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/selda.png",
         "track_id": "new-herland-city-track",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -450,6 +476,7 @@
       {
         "number": "3",
         "name": "Kuroki",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/kuroki.png",
         "track_id": "new-herland-city-track",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -466,6 +493,7 @@
       {
         "number": "4",
         "name": "Chiyuki",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/chiyuki.png",
         "track_id": "new-herland-city-track",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -482,6 +510,7 @@
       {
         "number": "5",
         "name": "Daisy",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/daisy.png",
         "track_id": "new-herland-city-track",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -498,6 +527,7 @@
       {
         "number": "6",
         "name": "Amory",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/amory.png",
         "track_id": "new-herland-city-track",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -526,6 +556,7 @@
       {
         "number": "1",
         "name": "Pinglu",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/pinglu.png",
         "track_id": "new-herland-highway-track",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -541,6 +572,7 @@
       {
         "number": "2",
         "name": "Mei",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/mei.png",
         "track_id": "new-herland-highway-track",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -556,6 +588,7 @@
       {
         "number": "3",
         "name": "Akai",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/akai.png",
         "track_id": "new-herland-highway-track",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -571,6 +604,7 @@
       {
         "number": "4",
         "name": "Reno",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/reno.png",
         "track_id": "new-herland-highway-track",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -586,6 +620,7 @@
       {
         "number": "5",
         "name": "Misha",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/misha.png",
         "track_id": "new-herland-highway-track",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -601,6 +636,7 @@
       {
         "number": "6",
         "name": "Permit",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/permit.png",
         "track_id": "new-herland-highway-track",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -628,6 +664,7 @@
       {
         "number": "1",
         "name": "Eve",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/eve.png",
         "track_id": "horizon-tour-circuit-a",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -643,6 +680,7 @@
       {
         "number": "2",
         "name": "Majima",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/majima.png",
         "track_id": "horizon-tour-circuit-a",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -658,6 +696,7 @@
       {
         "number": "3",
         "name": "Bart",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/bart.png",
         "track_id": "horizon-tour-circuit-b",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -673,6 +712,7 @@
       {
         "number": "4",
         "name": "Nana",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/nana.png",
         "track_id": "horizon-tour-circuit-b",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -688,6 +728,7 @@
       {
         "number": "5",
         "name": "Taku",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/taku.png",
         "track_id": "horizon-tour-circuit-c",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -704,6 +745,7 @@
       {
         "number": "6",
         "name": "Asuka",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/asuka.png",
         "track_id": "horizon-tour-circuit-d",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -732,6 +774,7 @@
       {
         "number": "1",
         "name": "Yuki",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/yuki.png",
         "track_id": "wildlands-track-circuit-a",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -746,6 +789,7 @@
       {
         "number": "2",
         "name": "Ben",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/ben.png",
         "track_id": "wildlands-track-circuit-a",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -761,6 +805,7 @@
       {
         "number": "3",
         "name": "Haru",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/haru.png",
         "track_id": "wildlands-track-circuit-b",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -777,6 +822,7 @@
       {
         "number": "4",
         "name": "Evan",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/evan.png",
         "track_id": "wildlands-track-circuit-b",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -793,6 +839,7 @@
       {
         "number": "5",
         "name": "Ryo",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/ryo.png",
         "track_id": "wildlands-track-circuit-c",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -809,6 +856,7 @@
       {
         "number": "6",
         "name": "Kiryu",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/kiryu.png",
         "track_id": "wildlands-track-circuit-c",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -837,6 +885,7 @@
       {
         "number": "1",
         "name": "Anzu",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/anzu.png",
         "track_id": "harvest-track-circuit-a",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -851,6 +900,7 @@
       {
         "number": "2",
         "name": "Komachi",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/komachi.png",
         "track_id": "harvest-track-circuit-a",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -866,6 +916,7 @@
       {
         "number": "3",
         "name": "Kenta",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/kenta.png",
         "track_id": "harvest-track-circuit-b",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -882,6 +933,7 @@
       {
         "number": "4",
         "name": "Makoto",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/makoto.png",
         "track_id": "harvest-track-circuit-b",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -898,6 +950,7 @@
       {
         "number": "5",
         "name": "Nico",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/nico.png",
         "track_id": "harvest-track-circuit-c",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -914,6 +967,7 @@
       {
         "number": "6",
         "name": "Kurokawa",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/kurokawa.png",
         "track_id": "harvest-track-circuit-c",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -942,6 +996,7 @@
       {
         "number": "1",
         "name": "Shiori",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/shiori.png",
         "track_id": "urban-track-circuit-a",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -956,6 +1011,7 @@
       {
         "number": "2",
         "name": "Renji",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/renji.png",
         "track_id": "urban-track-circuit-a",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -971,6 +1027,7 @@
       {
         "number": "3",
         "name": "Tabi",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/tabi.png",
         "track_id": "urban-track-circuit-b",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -987,6 +1044,7 @@
       {
         "number": "4",
         "name": "Shiyu",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/shiyu.png",
         "track_id": "urban-track-circuit-b",
         "track_variant": "reverse",
         "vehicle_ids": [
@@ -1003,6 +1061,7 @@
       {
         "number": "5",
         "name": "Hiiragi",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/hiiragi.png",
         "track_id": "urban-track-circuit-a",
         "track_variant": "normal",
         "vehicle_ids": [
@@ -1019,6 +1078,7 @@
       {
         "number": "6",
         "name": "Miura",
+        "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/teams/racers/miura.png",
         "track_id": "urban-track-circuit-a",
         "track_variant": "normal",
         "vehicle_ids": [
