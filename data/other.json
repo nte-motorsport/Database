@@ -52,7 +52,7 @@
     "game_id": "vehicle043",
     "brand_id": "terrax",
     "model": "Sirocco",
-    "name": "Terrax - Sirocco",
+    "name": "TerraX - Sirocco",
     "description": "The vast coastline is your brand-new off-road playground. Take the wheel and conquer the dunes!",
     "stats": {
       "top_speed_kmh": 95,
@@ -77,7 +77,7 @@
     "game_id": "vehicle045",
     "brand_id": "terrax",
     "model": "Iron Ogre",
-    "name": "Terrax - Iron Ogre",
+    "name": "TerraX - Iron Ogre",
     "description": "In this ride, every road leads to Easy Street.",
     "stats": {
       "top_speed_kmh": 35,
