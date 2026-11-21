@@ -3,8 +3,8 @@
     "id": "ori-lv03",
     "game_id": "vehicle031a_kuba",
     "brand_id": null,
-    "model": "Ori-LV03",
-    "name": "Ori-LV03",
+    "model": "LV03",
+    "name": "Ori - LV03",
     "description": "A custom Kool Express vehicle with a larger, sturdier cargo compartment to keep shipments safe.",
     "stats": {
       "top_speed_kmh": 90,
@@ -33,8 +33,8 @@
     "id": "ori-tt01",
     "game_id": "vehicle031b",
     "brand_id": null,
-    "model": "Ori-TT01",
-    "name": "Ori-TT01",
+    "model": "TT01",
+    "name": "Ori - TT01",
     "description": "Made by Orichalcos for vehicle transport, towing, and more.",
     "stats": {
       "top_speed_kmh": 95,
@@ -65,8 +65,8 @@
     "id": "ori-lv01",
     "game_id": "vehicle009a_kuba",
     "brand_id": null,
-    "model": "Ori-LV01",
-    "name": "Ori-LV01",
+    "model": "LV01",
+    "name": "Ori - LV01",
     "description": "A custom Kool Express vehicle with a sturdy cargo compartment to keep shipments safe.",
     "stats": {
       "top_speed_kmh": 100,
