@@ -429,5 +429,198 @@
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/porsche-918-spyder.png",
     "modifications_id": "porsche-918-spyder",
     "liveries_id": "porsche-918-spyder"
+  },
+  {
+    "id": "novus-a001",
+    "game_id": "vehicle060a",
+    "brand_id": "novus",
+    "model": "A001",
+    "name": "Novus - A001",
+    "description": "Made by Novus for medical emergencies.",
+    "stats": {
+      "top_speed_kmh": 148,
+      "reverse_top_speed_kmh": 40,
+      "acceleration": 3,
+      "shift_speed": 4,
+      "suspension_height": 0,
+      "suspension_damper": 0,
+      "handbrake": 0,
+      "braking_force": 3,
+      "durability": null,
+      "drivetrain": "FWD",
+      "gears": 4,
+      "price": 500000,
+      "currency": "Fons"
+    },
+    "influence": {
+      "brand": null,
+      "model": null,
+      "year": null,
+      "description": null,
+      "image": null
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-a001.png",
+    "modifications_id": "novus-a001",
+    "liveries_id": "novus-a001"
+  },
+  {
+    "id": "novus-e001",
+    "game_id": "vehicle060b",
+    "brand_id": "novus",
+    "model": "E001",
+    "name": "Novus - E001",
+    "description": "Made by Novus for prisoner transfers.",
+    "stats": {
+      "top_speed_kmh": 145,
+      "reverse_top_speed_kmh": 40,
+      "acceleration": 3,
+      "shift_speed": 4,
+      "suspension_height": 0,
+      "suspension_damper": 0,
+      "handbrake": 0,
+      "braking_force": 3,
+      "durability": null,
+      "drivetrain": "FWD",
+      "gears": 4,
+      "price": 500000,
+      "currency": "Fons"
+    },
+    "influence": {
+      "brand": null,
+      "model": null,
+      "year": null,
+      "description": null,
+      "image": null
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-e001.png",
+    "modifications_id": "novus-e001"
+  },
+  {
+    "id": "novus-c001",
+    "game_id": "vehicle060c",
+    "brand_id": "novus",
+    "model": "C001",
+    "name": "Novus - C001",
+    "description": "Made by Novus to ensure secure transport of valuable goods.",
+    "stats": {
+      "top_speed_kmh": 145,
+      "reverse_top_speed_kmh": 40,
+      "acceleration": 3,
+      "shift_speed": 4,
+      "suspension_height": 0,
+      "suspension_damper": 0,
+      "handbrake": 0,
+      "braking_force": 3,
+      "durability": null,
+      "drivetrain": "FWD",
+      "gears": 4,
+      "price": 12000,
+      "currency": "Kool Tokens"
+    },
+    "influence": {
+      "brand": null,
+      "model": null,
+      "year": null,
+      "description": null,
+      "image": null
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/novus-c001.png",
+    "modifications_id": "novus-c001"
+  },
+  {
+    "id": "ori-tt01",
+    "game_id": "vehicle031b",
+    "brand_id": null,
+    "model": "Ori-TT01",
+    "name": "Ori-TT01",
+    "description": "Made by Orichalcos for vehicle transport, towing, and more.",
+    "stats": {
+      "top_speed_kmh": 95,
+      "reverse_top_speed_kmh": 40,
+      "acceleration": 4,
+      "shift_speed": 3,
+      "suspension_height": 7,
+      "suspension_damper": 6,
+      "handbrake": 0,
+      "braking_force": 4,
+      "durability": null,
+      "drivetrain": "AWD",
+      "gears": 4,
+      "price": 400000,
+      "currency": "Fons"
+    },
+    "influence": {
+      "brand": null,
+      "model": null,
+      "year": null,
+      "description": null,
+      "image": null
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/ori-tt01.png",
+    "modifications_id": "ori-tt01"
+  },
+  {
+    "id": "ori-lv01",
+    "game_id": "vehicle009a_kuba",
+    "brand_id": null,
+    "model": "Ori-LV01",
+    "name": "Ori-LV01",
+    "description": "A custom Kool Express vehicle with a sturdy cargo compartment to keep shipments safe.",
+    "stats": {
+      "top_speed_kmh": 100,
+      "reverse_top_speed_kmh": 40,
+      "acceleration": 4,
+      "shift_speed": 3,
+      "suspension_height": 7,
+      "suspension_damper": 6,
+      "handbrake": 0,
+      "braking_force": 4,
+      "durability": 17200,
+      "drivetrain": "AWD",
+      "gears": 4,
+      "price": null,
+      "currency": null
+    },
+    "influence": {
+      "brand": null,
+      "model": null,
+      "year": null,
+      "description": null,
+      "image": null
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/ori-lv01.png",
+    "modifications_id": "ori-lv01"
+  },
+  {
+    "id": "ori-lv03",
+    "game_id": "vehicle031a_kuba",
+    "brand_id": null,
+    "model": "Ori-LV03",
+    "name": "Ori-LV03",
+    "description": "A custom Kool Express vehicle with a larger, sturdier cargo compartment to keep shipments safe.",
+    "stats": {
+      "top_speed_kmh": 90,
+      "reverse_top_speed_kmh": 40,
+      "acceleration": 4,
+      "shift_speed": 3,
+      "suspension_height": 7,
+      "suspension_damper": 6,
+      "handbrake": 0,
+      "braking_force": 4,
+      "durability": null,
+      "drivetrain": "AWD",
+      "gears": 4,
+      "price": null,
+      "currency": null
+    },
+    "influence": {
+      "brand": null,
+      "model": null,
+      "year": null,
+      "description": null,
+      "image": null
+    },
+    "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/cars/ori-lv03.png",
+    "modifications_id": "ori-lv03"
   }
 ]

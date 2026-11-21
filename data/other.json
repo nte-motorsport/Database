@@ -71,5 +71,56 @@
     "image": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/other/sirocco.png",
     "modifications_id": "terrax-sirocco",
     "liveries_id": "terrax-sirocco"
+  },
+  {
+    "id": "terrax-iron-ogre",
+    "game_id": "vehicle045",
+    "brand_id": "terrax",
+    "model": "Iron Ogre",
+    "name": "Terrax - Iron Ogre",
+    "description": "In this ride, every road leads to Easy Street.",
+    "stats": {
+      "top_speed_kmh": 35,
+      "reverse_top_speed_kmh": null,
+      "acceleration": 3,
+      "shift_speed": 4,
+      "suspension_height": 6,
+      "suspension_damper": 4,
+      "handbrake": 1,
+      "braking_force": 6,
+      "durability": null,
+      "drivetrain": null,
+      "gears": null,
+      "price": null,
+      "currency": null
+    },
+    "image": null,
+    "modifications_id": "terrax-iron-ogre",
+    "liveries_id": "terrax-iron-ogre"
+  },
+  {
+    "id": "prototype-land-overlord-001",
+    "game_id": "vehicle047",
+    "brand_id": null,
+    "model": "Prototype Land Overlord 001",
+    "name": "Prototype Land Overlord 001",
+    "description": "\"Whoa, this car looks awesome! So why won't it move?\" \"Ever tried one of those coin-operated kiddie rides? See that coin slot up there? Same deal. Gotta pay to make it go!\" \"Wait, I have to PAY to drive this thing?!\"",
+    "stats": {
+      "top_speed_kmh": 60,
+      "reverse_top_speed_kmh": null,
+      "acceleration": 8,
+      "shift_speed": 8,
+      "suspension_height": 2,
+      "suspension_damper": 3,
+      "handbrake": 7,
+      "braking_force": 8,
+      "durability": null,
+      "drivetrain": null,
+      "gears": null,
+      "price": null,
+      "currency": null
+    },
+    "image": null,
+    "modifications_id": "prototype-land-overlord-001"
   }
 ]

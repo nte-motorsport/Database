@@ -3065,5 +3065,430 @@
         ]
       }
     ]
+  },
+  {
+    "id": "novus-a001",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "novus-a001-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 148,
+              "acceleration": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-a001-engine-horizon-l422",
+            "name": "Horizon - L422",
+            "price": 150000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 153,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "novus-a001-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-a001-gearbox-japo-s6-at95",
+            "name": "JAPO - S6-AT95",
+            "price": 90000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "novus-a001-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "novus-a001-brakes-master-db09",
+            "name": "Master - DB09",
+            "price": 45000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "novus-a001-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "novus-e001",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "novus-e001-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 145,
+              "acceleration": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-e001-engine-horizon-l422",
+            "name": "Horizon - L422",
+            "price": 136000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 150,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "novus-e001-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-e001-gearbox-japo-s6-at95",
+            "name": "JAPO - S6-AT95",
+            "price": 90000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "novus-e001-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          },
+          {
+            "id": "novus-e001-brakes-master-db09",
+            "name": "Master - DB09",
+            "price": 45000,
+            "currency": "Fons",
+            "stats": {
+              "braking_force": 5
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "novus-e001-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "novus-c001",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "novus-c001-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 145,
+              "acceleration": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "novus-c001-engine-horizon-l422",
+            "name": "Horizon - L422",
+            "price": 136000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 150,
+              "acceleration": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Gearbox",
+        "items": [
+          {
+            "id": "novus-c001-gearbox-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "shift_speed": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          },
+          {
+            "id": "novus-c001-gearbox-japo-s6-at95",
+            "name": "JAPO - S6-AT95",
+            "price": 90000,
+            "currency": "Fons",
+            "stats": {
+              "shift_speed": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/gearbox-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Brakes",
+        "items": [
+          {
+            "id": "novus-c001-brakes-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "braking_force": 3
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/brakes-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Wheels",
+        "items": [
+          {
+            "id": "novus-c001-wheels-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ori-tt01",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "ori-tt01-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 95,
+              "acceleration": 4,
+              "shift_speed": 3,
+              "suspension_height": 7,
+              "suspension_damper": 6,
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "terrax-iron-ogre",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "terrax-iron-ogre-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 35,
+              "acceleration": 3,
+              "shift_speed": 4,
+              "suspension_height": 6,
+              "suspension_damper": 4,
+              "handbrake": 1,
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "terrax-iron-ogre-engine-engine-i",
+            "name": "Engine I",
+            "price": 1250000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 55,
+              "acceleration": 3,
+              "shift_speed": 4,
+              "suspension_height": 6,
+              "suspension_damper": 4,
+              "handbrake": 1,
+              "braking_force": 6
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prototype-land-overlord-001",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "prototype-land-overlord-001-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 60,
+              "acceleration": 8,
+              "shift_speed": 8,
+              "suspension_height": 2,
+              "suspension_damper": 3,
+              "handbrake": 7,
+              "braking_force": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          },
+          {
+            "id": "prototype-land-overlord-001-engine-engine-i",
+            "name": "Engine I",
+            "price": 1000000,
+            "currency": "Fons",
+            "stats": {
+              "top_speed_kmh": 60,
+              "acceleration": 8,
+              "shift_speed": 8,
+              "suspension_height": 2,
+              "suspension_damper": 3,
+              "handbrake": 7,
+              "braking_force": 8
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      },
+      {
+        "category": "Tires",
+        "items": [
+          {
+            "id": "prototype-land-overlord-001-tires-stock",
+            "name": "Stock",
+            "default": true,
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/tires-generic.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ori-lv01",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "ori-lv01-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 100,
+              "acceleration": 4,
+              "shift_speed": 3,
+              "suspension_height": 7,
+              "suspension_damper": 6,
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ori-lv03",
+    "categories": [
+      {
+        "category": "Engine",
+        "items": [
+          {
+            "id": "ori-lv03-engine-stock",
+            "name": "Stock",
+            "default": true,
+            "stats": {
+              "top_speed_kmh": 90,
+              "acceleration": 4,
+              "shift_speed": 3,
+              "suspension_height": 7,
+              "suspension_damper": 6,
+              "braking_force": 4
+            },
+            "icon": "https://cdn.jsdelivr.net/gh/nte-motorsport/Database@main/images/mods/engine-generic.webp"
+          }
+        ]
+      }
+    ]
   }
 ]
